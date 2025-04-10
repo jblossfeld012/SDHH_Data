@@ -1,0 +1,2992 @@
+[
+  {
+    "Address": "1031 Orange Ave, Coronado",
+    "ID": "1",
+    "Latitude": 32.6848334,
+    "Longitude": -117.1793517,
+    "Name": "The Henry",
+    "Type": "cafe, bar, restaurant, food, store, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.thehenryrestaurant.com/locations/the-henry-coronado/?utm_source=Google&utm_medium=Organic&utm_campaign=Maps"
+  },
+  {
+    "Address": "1166 Orange Ave, Coronado",
+    "ID": "2",
+    "Latitude": 32.6840511,
+    "Longitude": -117.1791792,
+    "Name": "Little Frenchie",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://littlefrenchiesd.com/"
+  },
+  {
+    "Address": "1107 Orange Ave, Coronado",
+    "ID": "3",
+    "Latitude": 32.6844403,
+    "Longitude": -117.1788008,
+    "Name": "McP's Irish Pub",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://mcpspub.com/"
+  },
+  {
+    "Address": "1310 Orange Ave, Coronado",
+    "ID": "4",
+    "Latitude": 32.6827803,
+    "Longitude": -117.1788646,
+    "Name": "Tavern",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.coronadotavern.com/"
+  },
+  {
+    "Address": "965 Orange Ave, Coronado",
+    "ID": "5",
+    "Latitude": 32.6861244,
+    "Longitude": -117.1794565,
+    "Name": "Danny's Palm Bar & Grill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "1309 Orange Ave, Coronado",
+    "ID": "6",
+    "Latitude": 32.683379,
+    "Longitude": -117.1784994,
+    "Name": "Stake Chophouse & Bar",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://stakechophousesd.com/"
+  },
+  {
+    "Address": "Quentin Roosevelt Blvd, Coronado",
+    "ID": "7",
+    "Latitude": 32.6953813,
+    "Longitude": -117.2002116,
+    "Name": "I Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "1333 Orange Ave, Coronado",
+    "ID": "8",
+    "Latitude": 32.6827905,
+    "Longitude": -117.1781104,
+    "Name": "Brigantine Seafood & Oyster Bar",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.brigantine.com/"
+  },
+  {
+    "Address": "1701 Strand Way, Coronado",
+    "ID": "9",
+    "Latitude": 32.6796703,
+    "Longitude": -117.1752532,
+    "Name": "Bluewater Boathouse Seafood Grill Coronado",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.bluewatergrill.com/location/coronado/"
+  },
+  {
+    "Address": "Coronado",
+    "ID": "10",
+    "Latitude": 32.6806056,
+    "Longitude": -117.1793621,
+    "Name": "Hotel del Coronado",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "100 Orange Ave, Coronado",
+    "ID": "11",
+    "Latitude": 32.6987633,
+    "Longitude": -117.1727343,
+    "Name": "Nicky Rottens Bar & Burger Joint",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.nickyrottensoncoronado.com/?utm_source=Google-Listing&utm_medium=organic"
+  },
+  {
+    "Address": "132 Orange Ave, Coronado",
+    "ID": "12",
+    "Latitude": 32.698257,
+    "Longitude": -117.1729594,
+    "Name": "Little Club",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "2163 Logan Ave, San Diego",
+    "ID": "13",
+    "Latitude": 32.6983156,
+    "Longitude": -117.1399507,
+    "Name": "Logan Inn",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "1201 1st St #101, Coronado",
+    "ID": "14",
+    "Latitude": 32.6983566,
+    "Longitude": -117.1699447,
+    "Name": "Coronado Tasting Room",
+    "Type": "bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.coronadotastingroom.com/"
+  },
+  {
+    "Address": "170 Orange Ave, Coronado",
+    "ID": "15",
+    "Latitude": 32.6977361,
+    "Longitude": -117.1731746,
+    "Name": "Coronado Brewing Company | Coronado Brew Pub",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.coronadobrewing.com/"
+  },
+  {
+    "Address": "2179 Logan Ave, San Diego",
+    "ID": "16",
+    "Latitude": 32.6981488,
+    "Longitude": -117.139758,
+    "Name": "Mason Ale Works Tasting Room",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.masonaleworks.com/"
+  },
+  {
+    "Address": "740 Bay Marina Dr, National City",
+    "ID": "17",
+    "Latitude": 32.6593727,
+    "Longitude": -117.1092623,
+    "Name": "Kimball Bar & Eatery",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.kimballsd.com/"
+  },
+  {
+    "Address": "Next to Macys, 555 Broadway Suite K100, Chula Vista",
+    "ID": "18",
+    "Latitude": 32.6301704,
+    "Longitude": -117.0866002,
+    "Name": "La Central Urban Grille Beer Garden",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "105 E 8th St, National City",
+    "ID": "19",
+    "Latitude": 32.6764208,
+    "Longitude": -117.1057569,
+    "Name": "Mc Dini's Restaurant Corporation",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.thelegendarymcdinis.com/#/"
+  },
+  {
+    "Address": "230 3rd Ave, Chula Vista",
+    "ID": "20",
+    "Latitude": 32.6436514,
+    "Longitude": -117.0810556,
+    "Name": "Vogue Tavern",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://voguetavern.com/"
+  },
+  {
+    "Address": "693 Palomar St #10, Chula Vista",
+    "ID": "21",
+    "Latitude": 32.604702,
+    "Longitude": -117.0841598,
+    "Name": "Ojos Locos Sports Cantina",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.ojoslocos.com/"
+  },
+  {
+    "Address": "41 E 8th St, National City",
+    "ID": "22",
+    "Latitude": 32.6762833,
+    "Longitude": -117.1062065,
+    "Name": "Market on 8th",
+    "Type": "cafe, bar, store, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://marketon8th.com/"
+  },
+  {
+    "Address": "3201 Marina Way, National City",
+    "ID": "23",
+    "Latitude": 32.6522514,
+    "Longitude": -117.1092745,
+    "Name": "The Waterfront Grill @ Pier 32 Marina - San Diego",
+    "Type": "restaurant, meal_takeaway, bar, store, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.mywaterfrontgrill.com/"
+  },
+  {
+    "Address": "400 Broadway, Chula Vista",
+    "ID": "24",
+    "Latitude": 32.6341269,
+    "Longitude": -117.0910407,
+    "Name": "Manhattan Bar",
+    "Type": "bar, night_club, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://manhattanbar91910.com/"
+  },
+  {
+    "Address": "550 Marina Pkwy, Chula Vista",
+    "ID": "25",
+    "Latitude": 32.6259379,
+    "Longitude": -117.1021021,
+    "Name": "The Galley",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://thegalleyatthemarina.com/"
+  },
+  {
+    "Address": "555 Broadway Suite 1084, Chula Vista",
+    "ID": "26",
+    "Latitude": 32.6308439,
+    "Longitude": -117.0849641,
+    "Name": "LTC",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.lastrescatrinas.com/"
+  },
+  {
+    "Address": "1441 Highland Ave, National City",
+    "ID": "27",
+    "Latitude": 32.6723701,
+    "Longitude": -117.0962578,
+    "Name": "Cafe La Maze",
+    "Type": "restaurant, night_club, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.cafelamaze.com/"
+  },
+  {
+    "Address": "555 Broadway Suite 1019, Chula Vista",
+    "ID": "28",
+    "Latitude": 32.6301942,
+    "Longitude": -117.0865375,
+    "Name": "La Central Beer & Wine Garden",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "108 W 25th St Suite Q, National City",
+    "ID": "29",
+    "Latitude": 32.6602943,
+    "Longitude": -117.1032652,
+    "Name": "Stoney's Bar & Grill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "3600 Main St, San Diego",
+    "ID": "30",
+    "Latitude": 32.686713,
+    "Longitude": -117.116759,
+    "Name": "The DOT Dying Of Thirst",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "253 3rd Ave #100, Chula Vista",
+    "ID": "31",
+    "Latitude": 32.6429743,
+    "Longitude": -117.0803714,
+    "Name": "Bar Sin Nombre",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "2305 Highland Ave, National City",
+    "ID": "32",
+    "Latitude": 32.6651299,
+    "Longitude": -117.0932152,
+    "Name": "Aja Lounge",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://aja-lounge.edan.io/"
+  },
+  {
+    "Address": "317 Third Ave, Chula Vista",
+    "ID": "33",
+    "Latitude": 32.6406809,
+    "Longitude": -117.0794796,
+    "Name": "Dock's Cocktail Lounge",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://docks-cocktail-lounge.edan.io/"
+  },
+  {
+    "Address": "341 3rd Ave, Chula Vista",
+    "ID": "34",
+    "Latitude": 32.6398883,
+    "Longitude": -117.0791149,
+    "Name": "Silver Dollar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "725 Broadway, Chula Vista",
+    "ID": "35",
+    "Latitude": 32.6232155,
+    "Longitude": -117.0861886,
+    "Name": "The Elwood",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://the-elwood.poi.place/"
+  },
+  {
+    "Address": "640 Civic Center Dr., National City",
+    "ID": "36",
+    "Latitude": 32.6694366,
+    "Longitude": -117.112174,
+    "Name": "Club 13",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "2325 Highland Ave, National City",
+    "ID": "37",
+    "Latitude": 32.664823,
+    "Longitude": -117.0932166,
+    "Name": "Machete Beer House",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.facebook.com/Machetebeerhouse"
+  },
+  {
+    "Address": "840 Broadway, Chula Vista",
+    "ID": "38",
+    "Latitude": 32.6192379,
+    "Longitude": -117.0851437,
+    "Name": "Formosa Club",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "33 Broadway, Chula Vista",
+    "ID": "39",
+    "Latitude": 32.6470339,
+    "Longitude": -117.0955456,
+    "Name": "Star Gazer Club",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://stargazerclub.net/"
+  },
+  {
+    "Address": "2424 Hoover Ave Suite A, National City",
+    "ID": "40",
+    "Latitude": 32.6601829,
+    "Longitude": -117.1050262,
+    "Name": "Over The Tap",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.overthetapnc.com/"
+  },
+  {
+    "Address": "683 Broadway, Chula Vista",
+    "ID": "41",
+    "Latitude": 32.6248426,
+    "Longitude": -117.0868682,
+    "Name": "El Santo Remedio Cantina",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://santoremediocantina.com/"
+  },
+  {
+    "Address": "700 National City Blvd, National City",
+    "ID": "42",
+    "Latitude": 32.6761682,
+    "Longitude": -117.1073707,
+    "Name": "Southbay Cafe & Cantina",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "247 Broadway, Chula Vista",
+    "ID": "43",
+    "Latitude": 32.6397679,
+    "Longitude": -117.0925961,
+    "Name": "Wild Wooly's Saloon",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "610 Palomar St, Chula Vista",
+    "ID": "44",
+    "Latitude": 32.6025239,
+    "Longitude": -117.0791542,
+    "Name": "Applebee's Grill + Bar",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://restaurants.applebees.com/en-us/ca/chula-vista/610-palomar-st-77062?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=77062&utm_content=website"
+  },
+  {
+    "Address": "373 3rd Ave, Chula Vista",
+    "ID": "45",
+    "Latitude": 32.6385297,
+    "Longitude": -117.0785812,
+    "Name": "La Bella Pizza",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.labellas.com/"
+  },
+  {
+    "Address": "337 W 35th St Unit M, National City",
+    "ID": "46",
+    "Latitude": 32.6500408,
+    "Longitude": -117.100461,
+    "Name": "San Diego Nightlife Tours",
+    "Type": "night_club, bar, travel_agency, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://sdnightlifetours.com/"
+  },
+  {
+    "Address": "700 Bay Marina Dr, National City",
+    "ID": "47",
+    "Latitude": 32.6594164,
+    "Longitude": -117.1089426,
+    "Name": "Sessions by the Bay",
+    "Type": "restaurant, night_club, bar, food, store, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://sessionsbythebay.com/"
+  },
+  {
+    "Address": "1451 Rosecrans St, San Diego",
+    "ID": "48",
+    "Latitude": 32.7263931,
+    "Longitude": -117.2279708,
+    "Name": "Westerly Public House",
+    "Type": "restaurant, night_club, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.westerlysd.com/?SEO_id=GMB--R-SANPLUP&y_source=1_MjY1ODk0MzItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+  },
+  {
+    "Address": "The Bay Club Hotel and Marina, 2131 Shelter Island Dr, San Diego",
+    "ID": "49",
+    "Latitude": 32.7157274,
+    "Longitude": -117.224633,
+    "Name": "Bay Club Bar & Grill",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.bayclubhotel.com/bayclubbarandgrill"
+  },
+  {
+    "Address": "N Harbor Dr Terminal 2, San Diego",
+    "ID": "50",
+    "Latitude": 32.7330765,
+    "Longitude": -117.2041424,
+    "Name": "Chase Sapphire Lounge by The Club SAN",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://chase.com/sapphireairportlounge?y_source=1_MTA4ODY2NzkzNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ=="
+  },
+  {
+    "Address": "3225 N Harbor Dr, San Diego",
+    "ID": "51",
+    "Latitude": 32.7323767,
+    "Longitude": -117.2040152,
+    "Name": "Stone Brewing",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.stonebrewing.com/visit/outposts/airport"
+  },
+  {
+    "Address": "2051 Shelter Island Dr, San Diego",
+    "ID": "52",
+    "Latitude": 32.713568,
+    "Longitude": -117.2273582,
+    "Name": "Blue Wave Bar & Grill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.islandpalms.com/dining"
+  },
+  {
+    "Address": "3225 N Harbor Dr, San Diego",
+    "ID": "53",
+    "Latitude": 32.7327776,
+    "Longitude": -117.1962284,
+    "Name": "Bankers Hill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "2907 Shelter Island Dr UNIT 108, San Diego",
+    "ID": "54",
+    "Latitude": 32.7217697,
+    "Longitude": -117.23069,
+    "Name": "Juno's Point Loma",
+    "Type": "restaurant, cafe, bar, food, point_of_interest, store, establishment",
+    "Vibe": null,
+    "Website": "http://www.junospointloma.com/"
+  },
+  {
+    "Address": "1551 Shelter Island Dr, San Diego",
+    "ID": "55",
+    "Latitude": 32.7095355,
+    "Longitude": -117.2321958,
+    "Name": "Vessel Restaurant",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.resortkonakai.com/shelter-island-restaurant/?utm_source=gmb-restaurant&utm_medium=organic&utm_campaign=gmb"
+  },
+  {
+    "Address": "2750 Dewey Rd #193, San Diego",
+    "ID": "56",
+    "Latitude": 32.7382572,
+    "Longitude": -117.2123608,
+    "Name": "Slater\u2019s 50/50",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.slaters5050sd.com/"
+  },
+  {
+    "Address": "2205 Mendocino Blvd, San Diego",
+    "ID": "57",
+    "Latitude": 32.7452809,
+    "Longitude": -117.2355542,
+    "Name": "The Reunion Pub",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.facebook.com/bigbill49/"
+  },
+  {
+    "Address": "1125 Rosecrans St, San Diego",
+    "ID": "58",
+    "Latitude": 32.7215245,
+    "Longitude": -117.2312617,
+    "Name": "Harbor Town Pub",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.harbortownpub.com/"
+  },
+  {
+    "Address": "4202 Voltaire St, San Diego",
+    "ID": "59",
+    "Latitude": 32.7440072,
+    "Longitude": -117.2348923,
+    "Name": "Catalina Lounge",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "2562 Laning Rd, San Diego",
+    "ID": "60",
+    "Latitude": 32.7286342,
+    "Longitude": -117.2173603,
+    "Name": "Oggi's Sports | Brewhouse | Pizza",
+    "Type": "meal_takeaway, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://oggis.com/point-loma-liberty-station/about-us/"
+  },
+  {
+    "Address": "1310 Scott St, San Diego",
+    "ID": "61",
+    "Latitude": 32.7233708,
+    "Longitude": -117.2290284,
+    "Name": "Club Marina",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://clubmarinabar.com/"
+  },
+  {
+    "Address": "2028 Hancock St, San Diego",
+    "ID": "62",
+    "Latitude": 32.7445481,
+    "Longitude": -117.1881637,
+    "Name": "Spin Nightclub",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.spinnightclub.com/"
+  },
+  {
+    "Address": "4902 Newport Ave, San Diego",
+    "ID": "63",
+    "Latitude": 32.7460092,
+    "Longitude": -117.249335,
+    "Name": "The Joint Sushi & Tapas",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.thejointob.com/"
+  },
+  {
+    "Address": "3367 India St, San Diego",
+    "ID": "64",
+    "Latitude": 32.73814,
+    "Longitude": -117.1765829,
+    "Name": "Dyno Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.dynobarsd.com/"
+  },
+  {
+    "Address": "3225 N Harbor Dr, San Diego",
+    "ID": "65",
+    "Latitude": 32.7320898,
+    "Longitude": -117.2038226,
+    "Name": "PGA TOUR Grill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.san.org/Shop-Dine-Relax/Detail?ID=19&Source=WhatsNew"
+  },
+  {
+    "Address": "4204 Voltaire St, San Diego",
+    "ID": "66",
+    "Latitude": 32.7440399,
+    "Longitude": -117.2349204,
+    "Name": "Long Story Irish Pub",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.longstoryirishpub.com/"
+  },
+  {
+    "Address": "1872 Rosecrans St, San Diego",
+    "ID": "67",
+    "Latitude": 32.7309325,
+    "Longitude": -117.2243258,
+    "Name": "Good bar",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.goodbarsd.com/"
+  },
+  {
+    "Address": "3365 India St, San Diego",
+    "ID": "68",
+    "Latitude": 32.7380767,
+    "Longitude": -117.176528,
+    "Name": "Aero Club Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://aeroclubbar.com/"
+  },
+  {
+    "Address": "2907 Shelter Island Dr UNIT 108, San Diego",
+    "ID": "69",
+    "Latitude": 32.7217973,
+    "Longitude": -117.230658,
+    "Name": "The Wine Pub & Restaurant (Now Juno's)",
+    "Type": "bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.junospointloma.com/"
+  },
+  {
+    "Address": "2820 Lytton St, San Diego",
+    "ID": "70",
+    "Latitude": 32.743608,
+    "Longitude": -117.210639,
+    "Name": "The Hole San Diego",
+    "Type": "bar, night_club, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.theholesandiego.com/"
+  },
+  {
+    "Address": "2970 Truxtun Rd #9, San Diego",
+    "ID": "71",
+    "Latitude": 32.7423643,
+    "Longitude": -117.2102788,
+    "Name": "Dirty Birds Liberty Station",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.dirtybirdsbarandgrill.com/"
+  },
+  {
+    "Address": "2860 Sims Rd, San Diego",
+    "ID": "72",
+    "Latitude": 32.7409309,
+    "Longitude": -117.2113155,
+    "Name": "Moniker General",
+    "Type": "cafe, clothing_store, bar, food, store, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.monikergeneral.com/"
+  },
+  {
+    "Address": "4935 Newport Ave, San Diego",
+    "ID": "73",
+    "Latitude": 32.7461077,
+    "Longitude": -117.2500808,
+    "Name": "The Harp",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://theharpoceanbeach.com/"
+  },
+  {
+    "Address": "3659 India St, San Diego",
+    "ID": "74",
+    "Latitude": 32.7418837,
+    "Longitude": -117.1796359,
+    "Name": "The Regal Beagle",
+    "Type": "liquor_store, bar, restaurant, food, store, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.regalbeaglesd.com/"
+  },
+  {
+    "Address": "2860 Sims Rd, San Diego",
+    "ID": "75",
+    "Latitude": 32.7409306,
+    "Longitude": -117.2112286,
+    "Name": "The Bar at Moniker General",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.monikergeneralbar.com/"
+  },
+  {
+    "Address": "2734 Lytton St, San Diego",
+    "ID": "76",
+    "Latitude": 32.7429275,
+    "Longitude": -117.2100291,
+    "Name": "Desi's Bar & Grill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "1929 Cable St, San Diego",
+    "ID": "77",
+    "Latitude": 32.7463422,
+    "Longitude": -117.2487251,
+    "Name": "Dirty Birds Ocean Beach",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.dirtybirdsbarandgrill.com/"
+  },
+  {
+    "Address": "3225 N Harbor Dr, San Diego",
+    "ID": "78",
+    "Latitude": 32.7341824,
+    "Longitude": -117.2039844,
+    "Name": "Beaudevin",
+    "Type": "bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "2960 Truxtun Rd, San Diego",
+    "ID": "79",
+    "Latitude": 32.7420945,
+    "Longitude": -117.2105469,
+    "Name": "The Loma Club",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://thelomaclub.com/"
+  },
+  {
+    "Address": "2907 Shelter Island Dr UNIT 107, San Diego",
+    "ID": "80",
+    "Latitude": 32.721826,
+    "Longitude": -117.2306183,
+    "Name": "Coffee Hub and Cafe (Now Juno's)",
+    "Type": "restaurant, cafe, bar, food, store, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.junospointloma.com/"
+  },
+  {
+    "Address": "3701 India St, San Diego",
+    "ID": "81",
+    "Latitude": 32.7426168,
+    "Longitude": -117.1804507,
+    "Name": "Shakespeare Pub",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.shakespearepub.com/"
+  },
+  {
+    "Address": "4990 N Harbor Dr, San Diego",
+    "ID": "82",
+    "Latitude": 32.7250863,
+    "Longitude": -117.2243302,
+    "Name": "Jimmy's Famous American Tavern",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.jfamous.com/"
+  },
+  {
+    "Address": "2820 Historic Decatur Rd, San Diego",
+    "ID": "83",
+    "Latitude": 32.74029489999999,
+    "Longitude": -117.2111013,
+    "Name": "Mess Hall",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://libertypublicmarketsd.com/vendor/mess-hall-bar/"
+  },
+  {
+    "Address": "2817 Dickens St, San Diego",
+    "ID": "84",
+    "Latitude": 32.7226185,
+    "Longitude": -117.2275917,
+    "Name": "Eppig Brewing Waterfront Biergarten",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.eppigbrewing.com/"
+  },
+  {
+    "Address": "3731 India St, San Diego",
+    "ID": "85",
+    "Latitude": 32.7429169,
+    "Longitude": -117.180768,
+    "Name": "Wine Vault & Bistro",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.winevaultbistro.com/"
+  },
+  {
+    "Address": "3835 N Harbor Dr, San Diego",
+    "ID": "86",
+    "Latitude": 32.7322441,
+    "Longitude": -117.2047506,
+    "Name": "United Club",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounges/locations.html"
+  },
+  {
+    "Address": "2044 Kettner Blvd, San Diego",
+    "ID": "87",
+    "Latitude": 32.7256472,
+    "Longitude": -117.1702169,
+    "Name": "Waterfront Bar & Grill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://waterfrontbarandgrill.com/"
+  },
+  {
+    "Address": "627 Fourth Ave, San Diego",
+    "ID": "88",
+    "Latitude": 32.7119428,
+    "Longitude": -117.1607806,
+    "Name": "Werewolf",
+    "Type": "bar, night_club, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.thewerewolf.net/"
+  },
+  {
+    "Address": "600 F St, San Diego",
+    "ID": "89",
+    "Latitude": 32.7139599,
+    "Longitude": -117.1590939,
+    "Name": "The Rooftop by STK",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://sandiego.andaz.hyatt.com/en/hotel/dining/the-rooftop-by-stk.html"
+  },
+  {
+    "Address": "509 Ninth Ave, San Diego",
+    "ID": "90",
+    "Latitude": 32.7105582,
+    "Longitude": -117.1562703,
+    "Name": "Table 509 Bar & Kitchen",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "1355 N Harbor Dr, San Diego",
+    "ID": "91",
+    "Latitude": 32.7195308,
+    "Longitude": -117.1725436,
+    "Name": "Claim Jumper Steakhouse & Bar - San Diego, CA",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.fooddiscoveryapp.com/san-diego/claim-jumper"
+  },
+  {
+    "Address": "701 A St, San Diego",
+    "ID": "92",
+    "Latitude": 32.7187677,
+    "Longitude": -117.1579583,
+    "Name": "Shake Bar & Lounge",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.marriott.com/hotels/hotel-information/restaurant/sanva-marriott-vacation-club-pulse-san-diego/"
+  },
+  {
+    "Address": "401 K St, San Diego",
+    "ID": "93",
+    "Latitude": 32.70774370000001,
+    "Longitude": -117.160768,
+    "Name": "Wild Hare Bar Garden",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.wildharebargarden.com/"
+  },
+  {
+    "Address": "793 J St, San Diego",
+    "ID": "94",
+    "Latitude": 32.7088183,
+    "Longitude": -117.1575557,
+    "Name": "Fairweather Rooftop Bar",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.fairweatherbar.com/"
+  },
+  {
+    "Address": "2219 30th St, San Diego",
+    "ID": "95",
+    "Latitude": 32.729097,
+    "Longitude": -117.129988,
+    "Name": "The Rose Wine Bar",
+    "Type": "liquor_store, bar, restaurant, food, store, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://therosewinebar.com/"
+  },
+  {
+    "Address": "629 Kettner Blvd, San Diego",
+    "ID": "96",
+    "Latitude": 32.7119496,
+    "Longitude": -117.1689918,
+    "Name": "The Lion's Share",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.lionssharesd.com/"
+  },
+  {
+    "Address": "560 Fourth Ave, San Diego",
+    "ID": "97",
+    "Latitude": 32.7111869,
+    "Longitude": -117.1611933,
+    "Name": "La Puerta",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://lapuertasd.com/?utm_source=Business-Listings"
+  },
+  {
+    "Address": "495 Laurel St, San Diego",
+    "ID": "98",
+    "Latitude": 32.7312207,
+    "Longitude": -117.160439,
+    "Name": "The Corner Drafthouse",
+    "Type": "restaurant, night_club, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://thecornerdrafthouse.com/?utm_source=Directories&utm_medium=Business-Listings"
+  },
+  {
+    "Address": "777 G St, San Diego",
+    "ID": "99",
+    "Latitude": 32.7124267,
+    "Longitude": -117.1575869,
+    "Name": "Noble Experiment",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.nobleexperimentsd.com/"
+  },
+  {
+    "Address": "631 Ninth Ave, San Diego",
+    "ID": "100",
+    "Latitude": 32.7118579,
+    "Longitude": -117.1563494,
+    "Name": "The Invigatorium",
+    "Type": "liquor_store, cafe, bar, store, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://theinvigatorium.com/"
+  },
+  {
+    "Address": "500 W Broadway, San Diego",
+    "ID": "101",
+    "Latitude": 32.7158923,
+    "Longitude": -117.1678476,
+    "Name": "The Guild Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.theguildhotel.com/eat-drink/the-guild-bar"
+  },
+  {
+    "Address": "631 Ninth Ave, San Diego",
+    "ID": "102",
+    "Latitude": 32.7118253,
+    "Longitude": -117.1562055,
+    "Name": "J & Tony\u2019s Discount Cured Meats And Negroni Warehouse",
+    "Type": "bar, store, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.prosciuttoboys.com/"
+  },
+  {
+    "Address": "453 Sixth Ave, San Diego",
+    "ID": "103",
+    "Latitude": 32.7101228,
+    "Longitude": -117.1590693,
+    "Name": "Rooftop Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "353 Fifth Ave, San Diego",
+    "ID": "104",
+    "Latitude": 32.708923,
+    "Longitude": -117.1599707,
+    "Name": "Tapas Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "1028 Sixth Ave, San Diego",
+    "ID": "105",
+    "Latitude": 32.7160218,
+    "Longitude": -117.1594332,
+    "Name": "The Gold Reserve Kitchen & Bar",
+    "Type": "restaurant, night_club, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.marriott.com/en-us/hotels/sancd-courtyard-san-diego-downtown/dining/"
+  },
+  {
+    "Address": "1055 Fifth Ave, San Diego",
+    "ID": "106",
+    "Latitude": 32.7164383,
+    "Longitude": -117.1598249,
+    "Name": "House of Blues",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.houseofblues.com/sandiego?y_source=1_MTU2MzYxNjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+  },
+  {
+    "Address": "548 Fifth Ave, San Diego",
+    "ID": "107",
+    "Latitude": 32.7111155,
+    "Longitude": -117.1603528,
+    "Name": "Prohibition Lounge",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://prohibitionsd.com/"
+  },
+  {
+    "Address": "748 Fifth Ave, San Diego",
+    "ID": "108",
+    "Latitude": 32.713091,
+    "Longitude": -117.1602661,
+    "Name": "Innfusions Bar & Restaraunt",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "1532 India St, San Diego",
+    "ID": "109",
+    "Latitude": 32.7214585,
+    "Longitude": -117.1684333,
+    "Name": "Bar One",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.baronelittleitaly.com/"
+  },
+  {
+    "Address": "956 Broadway Cir, San Diego",
+    "ID": "110",
+    "Latitude": 32.7153855,
+    "Longitude": -117.1630571,
+    "Name": "Dobson's Bar & Restaurant",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://dobsonsrestaurant.com/"
+  },
+  {
+    "Address": "1918 India St, San Diego",
+    "ID": "111",
+    "Latitude": 32.7245805,
+    "Longitude": -117.1687875,
+    "Name": "M WINEHOUSE",
+    "Type": "bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.mwinehouse.com/"
+  },
+  {
+    "Address": "3404 30th St, San Diego",
+    "ID": "112",
+    "Latitude": 32.7412098,
+    "Longitude": -117.1302433,
+    "Name": "Bluefoot Bar and Lounge",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.bluefootsd.com/"
+  },
+  {
+    "Address": "3537 Fifth Ave, San Diego",
+    "ID": "113",
+    "Latitude": 32.742255,
+    "Longitude": -117.1601722,
+    "Name": "Nunu's Tavern",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://nunustavern.com/"
+  },
+  {
+    "Address": "536 Market St, San Diego",
+    "ID": "114",
+    "Latitude": 32.7116509,
+    "Longitude": -117.1594046,
+    "Name": "Side Bar Nightclub San Diego",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.sidebarsd.com/"
+  },
+  {
+    "Address": "1557 Columbia St, San Diego",
+    "ID": "115",
+    "Latitude": 32.7217694,
+    "Longitude": -117.1671811,
+    "Name": "Queenstown Public House",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://queenstownpublichouse.com/"
+  },
+  {
+    "Address": "675 W Beech St, San Diego",
+    "ID": "116",
+    "Latitude": 32.7207772,
+    "Longitude": -117.1689308,
+    "Name": "False Idol",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://falseidoltiki.com/"
+  },
+  {
+    "Address": "1863 Fifth Ave, San Diego",
+    "ID": "117",
+    "Latitude": 32.7249703,
+    "Longitude": -117.1599724,
+    "Name": "The Balboa",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.thebalboabarandgrill.com/"
+  },
+  {
+    "Address": "715 Fourth Ave, San Diego",
+    "ID": "118",
+    "Latitude": 32.712866,
+    "Longitude": -117.1609236,
+    "Name": "Taste & Thirst",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://tasteandthirst.com/"
+  },
+  {
+    "Address": "618 Fifth Ave, San Diego",
+    "ID": "119",
+    "Latitude": 32.7119345,
+    "Longitude": -117.1602885,
+    "Name": "Henry's Pub",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://henryspub.com/"
+  },
+  {
+    "Address": "423 E St, San Diego",
+    "ID": "120",
+    "Latitude": 32.7144168,
+    "Longitude": -117.1607082,
+    "Name": "Star Bar",
+    "Type": "bar, night_club, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://starbarsd.com/"
+  },
+  {
+    "Address": "770 Fifth Ave, San Diego",
+    "ID": "121",
+    "Latitude": 32.7134995,
+    "Longitude": -117.1603229,
+    "Name": "The Tipsy Crow",
+    "Type": "bar, night_club, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://thetipsycrow.com/"
+  },
+  {
+    "Address": "340 Fifth Ave, San Diego",
+    "ID": "122",
+    "Latitude": 32.7089195,
+    "Longitude": -117.1602729,
+    "Name": "Happy Does Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.happydoesbar.com/"
+  },
+  {
+    "Address": "600 Fifth Ave #6916, San Diego",
+    "ID": "123",
+    "Latitude": 32.711697,
+    "Longitude": -117.16042,
+    "Name": "barleymash",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://barleymash.com/"
+  },
+  {
+    "Address": "528 F St, San Diego",
+    "ID": "124",
+    "Latitude": 32.7137476,
+    "Longitude": -117.1595305,
+    "Name": "The Double Deuce",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://doubledeucesd.com/"
+  },
+  {
+    "Address": "715 J St, San Diego",
+    "ID": "125",
+    "Latitude": 32.7092687,
+    "Longitude": -117.1579983,
+    "Name": "Bub's at the Ballpark",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://bubssandiego.com/"
+  },
+  {
+    "Address": "3610 Fifth Ave, San Diego",
+    "ID": "126",
+    "Latitude": 32.7435909,
+    "Longitude": -117.1605391,
+    "Name": "The Loft",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "634 Broadway, San Diego",
+    "ID": "127",
+    "Latitude": 32.7158468,
+    "Longitude": -117.1587545,
+    "Name": "Time Out Sports Tavern",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://timeoutsportstavern.com/"
+  },
+  {
+    "Address": "1125 Sixth Ave, San Diego",
+    "ID": "128",
+    "Latitude": 32.7171505,
+    "Longitude": -117.159112,
+    "Name": "Stout Public House",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.stoutsd.com/"
+  },
+  {
+    "Address": "628 Fifth Ave, San Diego",
+    "ID": "129",
+    "Latitude": 32.7121255,
+    "Longitude": -117.1603707,
+    "Name": "American Junkie",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.americanjunkiesd.com/"
+  },
+  {
+    "Address": "1665 India St, San Diego",
+    "ID": "130",
+    "Latitude": 32.7228561,
+    "Longitude": -117.1681556,
+    "Name": "Princess Pub & Grille",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.princesspub.com"
+  },
+  {
+    "Address": "835 Fifth Ave Lower Level, San Diego",
+    "ID": "131",
+    "Latitude": 32.7142173,
+    "Longitude": -117.1598757,
+    "Name": "Trailer Park After Dark",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.trailerparkafterdark-sandiego.com/"
+  },
+  {
+    "Address": "929 Broadway, San Diego",
+    "ID": "132",
+    "Latitude": 32.7156155,
+    "Longitude": -117.1559681,
+    "Name": "Chee-Chee Club",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://m.facebook.com/Chee-Chee-Club-140806169287973/"
+  },
+  {
+    "Address": "675 W Beech St, San Diego",
+    "ID": "133",
+    "Latitude": 32.720743,
+    "Longitude": -117.168963,
+    "Name": "Craft & Commerce",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://craft-commerce.com/"
+  },
+  {
+    "Address": "502 Fifth Ave, San Diego",
+    "ID": "134",
+    "Latitude": 32.7106236,
+    "Longitude": -117.1602793,
+    "Name": "Blarney Stone Pub",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://blarney-stone-pub.poi.place/"
+  },
+  {
+    "Address": "868 Fifth Ave, San Diego",
+    "ID": "135",
+    "Latitude": 32.7145014,
+    "Longitude": -117.1603234,
+    "Name": "Gaslamp Tavern",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://gaslamptavern.com/"
+  },
+  {
+    "Address": "428 F St, San Diego",
+    "ID": "136",
+    "Latitude": 32.713738,
+    "Longitude": -117.1605654,
+    "Name": "Patricks Gaslamp Pub",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://patricksgaslamppub.com/"
+  },
+  {
+    "Address": "1065 Fourth Ave, San Diego",
+    "ID": "137",
+    "Latitude": 32.7165258,
+    "Longitude": -117.1609508,
+    "Name": "The Local Eatery & Drinking Hole",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://thelocalsandiego.com/"
+  },
+  {
+    "Address": "903 Island Ave, San Diego",
+    "ID": "138",
+    "Latitude": 32.7102499,
+    "Longitude": -117.1563302,
+    "Name": "Half Door Brewing Co.",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.halfdoorbrewing.com/"
+  },
+  {
+    "Address": "844 Market St, San Diego",
+    "ID": "139",
+    "Latitude": 32.7116643,
+    "Longitude": -117.1566936,
+    "Name": "Knotty Barrel",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.knottybarrel.com/"
+  },
+  {
+    "Address": "544 Fifth Ave Apt. A, San Diego",
+    "ID": "140",
+    "Latitude": 32.7110753,
+    "Longitude": -117.1602837,
+    "Name": "The Field Irish Pub",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://thefield.com/"
+  },
+  {
+    "Address": "2236 Fern St, San Diego",
+    "ID": "141",
+    "Latitude": 32.7293668,
+    "Longitude": -117.1297498,
+    "Name": "Whistle Stop Bar",
+    "Type": "bar, night_club, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.whistlestopbar.com/"
+  },
+  {
+    "Address": "2204 Fern St, San Diego",
+    "ID": "142",
+    "Latitude": 32.7287687,
+    "Longitude": -117.1297232,
+    "Name": "Station Tavern",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.stationtavern.com/"
+  },
+  {
+    "Address": "420 Third Ave, San Diego",
+    "ID": "143",
+    "Latitude": 32.7097222,
+    "Longitude": -117.1622417,
+    "Name": "The Whiskey House",
+    "Type": "restaurant, night_club, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.thewhiskeyhousesd.com/"
+  },
+  {
+    "Address": "805 16th St, San Diego",
+    "ID": "144",
+    "Latitude": 32.7138573,
+    "Longitude": -117.1492466,
+    "Name": "Bottle Rocket Bar and Grill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://bottlerocketsd.com/"
+  },
+  {
+    "Address": "570 J St, San Diego",
+    "ID": "145",
+    "Latitude": 32.7094926,
+    "Longitude": -117.1594446,
+    "Name": "Nason's Beer Hall",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.pendry.com/san-diego/entertainment/nasons-beer-hall/"
+  },
+  {
+    "Address": "2001 Kettner Blvd, San Diego",
+    "ID": "146",
+    "Latitude": 32.7254096,
+    "Longitude": -117.1698472,
+    "Name": "Kettner Exchange",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.kettnerexchange.com/"
+  },
+  {
+    "Address": "831 Sixth Ave, San Diego",
+    "ID": "147",
+    "Latitude": 32.7141586,
+    "Longitude": -117.1591134,
+    "Name": "Room 56",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://room56.com/"
+  },
+  {
+    "Address": "505 Sixth Ave, San Diego",
+    "ID": "148",
+    "Latitude": 32.7105823,
+    "Longitude": -117.1589682,
+    "Name": "Tivoli Bar and Grill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "804 Market St, San Diego",
+    "ID": "149",
+    "Latitude": 32.7116751,
+    "Longitude": -117.1572306,
+    "Name": "Bootlegger",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.bootleggersd.com/"
+  },
+  {
+    "Address": "113 G St #523, San Diego",
+    "ID": "150",
+    "Latitude": 32.7123724,
+    "Longitude": -117.1644474,
+    "Name": "San Diego Pub Crawler",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.sandiegopubcrawler.com/"
+  },
+  {
+    "Address": "1129 Newton Ave, San Diego",
+    "ID": "151",
+    "Latitude": 32.6995183,
+    "Longitude": -117.1449232,
+    "Name": "Maggie's Caf\u00e9",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://maggiescafe-barriologan.com/"
+  },
+  {
+    "Address": "1047 Fifth Ave, San Diego",
+    "ID": "152",
+    "Latitude": 32.7162501,
+    "Longitude": -117.1599737,
+    "Name": "The Caf\u00e9 at Alma San Diego",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.stayalma.com/restaurants-bars/the-cafe/"
+  },
+  {
+    "Address": "207 Fifth Ave, San Diego",
+    "ID": "153",
+    "Latitude": 32.7077315,
+    "Longitude": -117.1599602,
+    "Name": "Maryjane's",
+    "Type": "cafe, bar, restaurant, food, point_of_interest, store, establishment",
+    "Vibe": null,
+    "Website": "https://www.hardrockhotels.com/san-diego/mary-janes.aspx"
+  },
+  {
+    "Address": "2248 30th St, San Diego",
+    "ID": "154",
+    "Latitude": 32.7294968,
+    "Longitude": -117.1302996,
+    "Name": "Caf\u00e9 Madeleine South Park",
+    "Type": "cafe, bar, restaurant, food, point_of_interest, store, establishment",
+    "Vibe": null,
+    "Website": "http://www.cafemadeleinesd.com/"
+  },
+  {
+    "Address": "1355 N Harbor Dr, San Diego",
+    "ID": "155",
+    "Latitude": 32.7182997,
+    "Longitude": -117.1727564,
+    "Name": "Hazelwoods On the Bay",
+    "Type": "cafe, bar, restaurant, food, point_of_interest, store, establishment",
+    "Vibe": null,
+    "Website": "https://hazelwoodsonthebay.net/"
+  },
+  {
+    "Address": "3650 Fifth Ave #104, San Diego",
+    "ID": "156",
+    "Latitude": 32.7448497,
+    "Longitude": -117.1605449,
+    "Name": "Divo Diva Cafe",
+    "Type": "cafe, bakery, bar, restaurant, food, point_of_interest, store, establishment",
+    "Vibe": null,
+    "Website": "https://www.divodivacafe.com/?utm_source=Directories&utm_medium=Business-Listings"
+  },
+  {
+    "Address": "526 F St, San Diego",
+    "ID": "157",
+    "Latitude": 32.713735,
+    "Longitude": -117.1596867,
+    "Name": "F6ix",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://f6ixsd.com/"
+  },
+  {
+    "Address": "852 Fifth Ave, San Diego",
+    "ID": "158",
+    "Latitude": 32.7143742,
+    "Longitude": -117.1603214,
+    "Name": "Onyx Room",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.onyxroom.com/"
+  },
+  {
+    "Address": "615 Broadway, San Diego",
+    "ID": "159",
+    "Latitude": 32.7155246,
+    "Longitude": -117.1590964,
+    "Name": "Parq Nightclub",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.parqsd.com/"
+  },
+  {
+    "Address": "852 Fifth Ave, San Diego",
+    "ID": "160",
+    "Latitude": 32.7143351,
+    "Longitude": -117.1604363,
+    "Name": "RUMBA LOUNGE",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.rumbax.com/"
+  },
+  {
+    "Address": "1014 Fifth Ave #140, San Diego",
+    "ID": "161",
+    "Latitude": 32.7161098,
+    "Longitude": -117.1603191,
+    "Name": "Phantom Lounge and Nightclub",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "420 E St, San Diego",
+    "ID": "162",
+    "Latitude": 32.7148192,
+    "Longitude": -117.160686,
+    "Name": "The Owl Lounge",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.theowlsandiego.com/"
+  },
+  {
+    "Address": "Gaslamp Marriott Quarter, 660 K Street Atop, 660 K St, San Diego",
+    "ID": "163",
+    "Latitude": 32.7086154,
+    "Longitude": -117.158506,
+    "Name": "Altitude Sky Lounge",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.altitudeskylounge.com/sandiego/"
+  },
+  {
+    "Address": "435 Fifth Ave, San Diego",
+    "ID": "164",
+    "Latitude": 32.7099594,
+    "Longitude": -117.1599652,
+    "Name": "Oxford Social Club",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://theoxfordsd.com/"
+  },
+  {
+    "Address": "840 Fifth Ave #100, San Diego",
+    "ID": "165",
+    "Latitude": 32.714194,
+    "Longitude": -117.1603429,
+    "Name": "VYBZ Kitchen & Lounge",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.vybzsandiego.com/"
+  },
+  {
+    "Address": "628 Fifth Ave A, San Diego",
+    "ID": "166",
+    "Latitude": 32.7119777,
+    "Longitude": -117.1602902,
+    "Name": "San Diego Club Crawl",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.sandiegoclubcrawl.com/"
+  },
+  {
+    "Address": "777 Fifth Ave, San Diego",
+    "ID": "167",
+    "Latitude": 32.7134006,
+    "Longitude": -117.15992,
+    "Name": "Omert\u00e0",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.omertasd.com/"
+  },
+  {
+    "Address": "601 Pacific Hwy, San Diego",
+    "ID": "168",
+    "Latitude": 32.7117361,
+    "Longitude": -117.1702674,
+    "Name": "New York West",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.newyorkwestbar.com/"
+  },
+  {
+    "Address": "600 Fifth Ave, San Diego",
+    "ID": "169",
+    "Latitude": 32.711697,
+    "Longitude": -117.16042,
+    "Name": "Ginger\u2019s",
+    "Type": "bar, night_club, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.gingersgaslamp.com/"
+  },
+  {
+    "Address": "555 Market St, San Diego",
+    "ID": "170",
+    "Latitude": 32.7112976,
+    "Longitude": -117.1593669,
+    "Name": "The Smoking Gun SD",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.thesmokinggunsd.com/"
+  },
+  {
+    "Address": "317 Dewey St, San Diego",
+    "ID": "171",
+    "Latitude": 32.7049034,
+    "Longitude": -117.1380645,
+    "Name": "Chiquibaby's Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "335 Sixth Ave, San Diego",
+    "ID": "172",
+    "Latitude": 32.7087983,
+    "Longitude": -117.1590572,
+    "Name": "The Deck at Moonshine Flats",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://thedecksd.com/"
+  },
+  {
+    "Address": "550 J St, San Diego",
+    "ID": "173",
+    "Latitude": 32.7094879,
+    "Longitude": -117.1598916,
+    "Name": "Fifth & Rose",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.pendry.com/san-diego/dining/fifth-rose/"
+  },
+  {
+    "Address": "634 14th St #110, San Diego",
+    "ID": "174",
+    "Latitude": 32.7118249,
+    "Longitude": -117.1520725,
+    "Name": "Kamon Craft Cocktail Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://barkamon.com/"
+  },
+  {
+    "Address": "1363 Old Globe Way, San Diego",
+    "ID": "175",
+    "Latitude": 32.7322216,
+    "Longitude": -117.1519294,
+    "Name": "Lady Carolyn's Pub",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://balboapark.org/attractions-experiences/lady-carolyns-pub-balboa-park/"
+  },
+  {
+    "Address": "3095 Fifth Ave, San Diego",
+    "ID": "176",
+    "Latitude": 32.7375564,
+    "Longitude": -117.1602071,
+    "Name": "North Park Beer Company - Bankers Hill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.northparkbeerco.com/"
+  },
+  {
+    "Address": "1157 Columbia St Ste 1167, San Diego",
+    "ID": "177",
+    "Latitude": 32.717459,
+    "Longitude": -117.167218,
+    "Name": "Karl Strauss Brewing Company",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://order.toasttab.com/online/ksdt?y_source=1_MTAyODQ0ODE5OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+  },
+  {
+    "Address": "1450 El Prado, San Diego",
+    "ID": "178",
+    "Latitude": 32.7316833,
+    "Longitude": -117.1508871,
+    "Name": "Panama 66",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.panama66.com/"
+  },
+  {
+    "Address": "777 G St, San Diego",
+    "ID": "179",
+    "Latitude": 32.7123644,
+    "Longitude": -117.1575385,
+    "Name": "Neighborhood",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://neighborhoodsd.com/"
+  },
+  {
+    "Address": "1971 India St, San Diego",
+    "ID": "180",
+    "Latitude": 32.7252736,
+    "Longitude": -117.1687336,
+    "Name": "Bolt Brewery - Little Italy",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://boltbrewery.com/"
+  },
+  {
+    "Address": "702 Fifth Ave, San Diego",
+    "ID": "181",
+    "Latitude": 32.7127448,
+    "Longitude": -117.1602753,
+    "Name": "Whiskey Girl",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.whiskeygirl.com/"
+  },
+  {
+    "Address": "1801 Morena Blvd, San Diego",
+    "ID": "182",
+    "Latitude": 32.7791259,
+    "Longitude": -117.207318,
+    "Name": "The High Dive",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.highdivesd.com/"
+  },
+  {
+    "Address": "710 Oliver Ct, San Diego",
+    "ID": "183",
+    "Latitude": 32.7917616,
+    "Longitude": -117.2550899,
+    "Name": "Lahaina Beach House",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "701 Thomas Ave, San Diego",
+    "ID": "184",
+    "Latitude": 32.7933324,
+    "Longitude": -117.2556318,
+    "Name": "Baja Beach Cafe",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.bajabeachcafe.com/"
+  },
+  {
+    "Address": "1404 Vacation Rd, San Diego",
+    "ID": "185",
+    "Latitude": 32.7741636,
+    "Longitude": -117.2405094,
+    "Name": "Barefoot Bar & Grill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://paradisepoint.com/san-diego-dining/mission-bay-restaurant-barefoot-bar-grill/"
+  },
+  {
+    "Address": "2228 Bacon St, San Diego",
+    "ID": "186",
+    "Latitude": 32.7525858,
+    "Longitude": -117.2463812,
+    "Name": "Northside Tavern",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://northsidetavernob.com/"
+  },
+  {
+    "Address": "4302 Mission Blvd, San Diego",
+    "ID": "187",
+    "Latitude": 32.7937491,
+    "Longitude": -117.2548546,
+    "Name": "Open Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "2732 Midway Dr, San Diego",
+    "ID": "188",
+    "Latitude": 32.7480812,
+    "Longitude": -117.2026824,
+    "Name": "Paradise Lounge & Grill - San Diego's Best Sports Bar",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://paradiseloungesd.com/"
+  },
+  {
+    "Address": "1710 W Mission Bay Dr, San Diego",
+    "ID": "189",
+    "Latitude": 32.7666,
+    "Longitude": -117.237316,
+    "Name": "Firefly Eatery & Bar",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.thedana.com/firefly-eatery-bar"
+  },
+  {
+    "Address": "1441 Quivira Rd, San Diego",
+    "ID": "190",
+    "Latitude": 32.7644398,
+    "Longitude": -117.2413907,
+    "Name": "Red Marlin",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.redmarlinsandiego.com/"
+  },
+  {
+    "Address": "1333 Hotel Cir S, San Diego",
+    "ID": "191",
+    "Latitude": 32.7587386,
+    "Longitude": -117.1751885,
+    "Name": "The Waffle Spot",
+    "Type": "cafe, bar, store, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://wafflespotsandiego.com/"
+  },
+  {
+    "Address": "5020 W Point Loma Blvd, San Diego",
+    "ID": "192",
+    "Latitude": 32.753598,
+    "Longitude": -117.24551,
+    "Name": "We Be OB",
+    "Type": "restaurant, bar, store, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://webeob.com/"
+  },
+  {
+    "Address": "4906 Voltaire St, San Diego",
+    "ID": "193",
+    "Latitude": 32.7511651,
+    "Longitude": -117.2449528,
+    "Name": "Lucy's Tavern",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "4041 Harney St, San Diego",
+    "ID": "194",
+    "Latitude": 32.7532426,
+    "Longitude": -117.1941813,
+    "Name": "BW Hacienda Hotel Old Town",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.haciendahotel-oldtown.com/"
+  },
+  {
+    "Address": "2688 E Mission Bay Dr., San Diego",
+    "ID": "195",
+    "Latitude": 32.78969319999999,
+    "Longitude": -117.2099422,
+    "Name": "The Mission Bay Beach Club",
+    "Type": "cafe, bar, store, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.missionbaybeachclub.com/"
+  },
+  {
+    "Address": "2467 Juan St, San Diego",
+    "ID": "196",
+    "Latitude": 32.7533663,
+    "Longitude": -117.1934989,
+    "Name": "Old Town Tequila Factory Restaurant & Cantina",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://oldtowntequilafactory.com/"
+  },
+  {
+    "Address": "2495 San Diego Ave, San Diego",
+    "ID": "197",
+    "Latitude": 32.7526376,
+    "Longitude": -117.1948957,
+    "Name": "Old Town Saloon",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "718 Ventura Pl, San Diego",
+    "ID": "198",
+    "Latitude": 32.7721427,
+    "Longitude": -117.2524758,
+    "Name": "Sandbar Sports Grill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.sandbarsportsgrill.com/"
+  },
+  {
+    "Address": "2222 San Diego Ave, San Diego",
+    "ID": "199",
+    "Latitude": 32.7478425,
+    "Longitude": -117.1911496,
+    "Name": "Home & Away",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://homeandawaysd.com/"
+  },
+  {
+    "Address": "1319 Morena Blvd, San Diego",
+    "ID": "200",
+    "Latitude": 32.7722303,
+    "Longitude": -117.2019485,
+    "Name": "The Cordova Bar",
+    "Type": "bar, night_club, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://thecordovabar.com/"
+  },
+  {
+    "Address": "1310 Morena Blvd, San Diego",
+    "ID": "201",
+    "Latitude": 32.7719297,
+    "Longitude": -117.202362,
+    "Name": "Sidecar Bar",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://sidecarbarsd.com/"
+  },
+  {
+    "Address": "2901 Mission Blvd, San Diego",
+    "ID": "202",
+    "Latitude": 32.76573440000001,
+    "Longitude": -117.251111,
+    "Name": "Beachcomber",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.thecomber.com/"
+  },
+  {
+    "Address": "2253 Morena Blvd, San Diego",
+    "ID": "203",
+    "Latitude": 32.785801,
+    "Longitude": -117.206147,
+    "Name": "Offshore Tavern & Grill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.offshoretavern.com/"
+  },
+  {
+    "Address": "5034 Newport Ave, San Diego",
+    "ID": "204",
+    "Latitude": 32.7473878,
+    "Longitude": -117.2516176,
+    "Name": "Tony's Martini Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.tonysob.com/"
+  },
+  {
+    "Address": "3714 Mission Blvd, San Diego",
+    "ID": "205",
+    "Latitude": 32.782904,
+    "Longitude": -117.2526836,
+    "Name": "Guava Beach Bar & Grill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://guava-beach.com/"
+  },
+  {
+    "Address": "2414 San Diego Ave, San Diego",
+    "ID": "206",
+    "Latitude": 32.7517603,
+    "Longitude": -117.1933573,
+    "Name": "Oculto 477",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://oculto477.com/"
+  },
+  {
+    "Address": "5059 Newport Ave, San Diego",
+    "ID": "207",
+    "Latitude": 32.747443,
+    "Longitude": -117.252339,
+    "Name": "South Beach Bar & Grille",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://southbeachob.com/"
+  },
+  {
+    "Address": "4927 Newport Ave, San Diego",
+    "ID": "208",
+    "Latitude": 32.7460405,
+    "Longitude": -117.2499715,
+    "Name": "Pacific Shores Cocktail Lounge",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://pacshoresob.store/"
+  },
+  {
+    "Address": "2221 Morena Blvd, San Diego",
+    "ID": "209",
+    "Latitude": 32.7852962,
+    "Longitude": -117.206299,
+    "Name": "Silver Spigot Cocktail Lounge",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://silverspigot.com/"
+  },
+  {
+    "Address": "2893 Mission Blvd, San Diego",
+    "ID": "210",
+    "Latitude": 32.7655722,
+    "Longitude": -117.2511453,
+    "Name": "The Pennant",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.thepennantbar.com/"
+  },
+  {
+    "Address": "722 Grand Ave, San Diego",
+    "ID": "211",
+    "Latitude": 32.7947417,
+    "Longitude": -117.255555,
+    "Name": "San Diego Happy Hour Spots Pacific Beach",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "4993 Niagara Ave, San Diego",
+    "ID": "212",
+    "Latitude": 32.7457251,
+    "Longitude": -117.2518471,
+    "Name": "OB Noodle House Bar 1502",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.obnoodlehouse.com/ob-noodle-house-bar-1502/"
+  },
+  {
+    "Address": "3786 Ingraham St, San Diego",
+    "ID": "213",
+    "Latitude": 32.7886029,
+    "Longitude": -117.2376316,
+    "Name": "Rocky's Crown Pub",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.rockyburgers.com/"
+  },
+  {
+    "Address": "5083 Santa Monica Ave Suite 2B, San Diego",
+    "ID": "214",
+    "Latitude": 32.7483812,
+    "Longitude": -117.2519238,
+    "Name": "Wonderland Ocean Pub",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://wonderlandob.com/"
+  },
+  {
+    "Address": "1959 Morena Blvd, San Diego",
+    "ID": "215",
+    "Latitude": 32.7815463,
+    "Longitude": -117.2069562,
+    "Name": "Luce Bar & Kitchen",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.sandiegoluce.com/#menu"
+  },
+  {
+    "Address": "4190 Mission Blvd #1, San Diego",
+    "ID": "216",
+    "Latitude": 32.7924997,
+    "Longitude": -117.2544154,
+    "Name": "Candy's Boom Boom Room",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "4343 Ocean Blvd, San Diego",
+    "ID": "217",
+    "Latitude": 32.7942171,
+    "Longitude": -117.2558081,
+    "Name": "PB Shore Club",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.pbshoreclub.com/"
+  },
+  {
+    "Address": "2265 Bacon St, San Diego",
+    "ID": "218",
+    "Latitude": 32.7529076,
+    "Longitude": -117.2457312,
+    "Name": "The 3rd Corner Wine Shop & Bistro",
+    "Type": "liquor_store, bar, restaurant, food, store, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.the3rdcorner.com/"
+  },
+  {
+    "Address": "Rockaway Ct, San Diego",
+    "ID": "219",
+    "Latitude": 32.7844159,
+    "Longitude": -117.2529508,
+    "Name": "SUNSHINE Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "3494 Sports Arena Blvd, San Diego",
+    "ID": "220",
+    "Latitude": 32.753899,
+    "Longitude": -117.211075,
+    "Name": "Chili's Grill & Bar",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.chilis.com/locations/us/california/san-diego/sports-arena?utm_source=google&utm_medium=local&utm_campaign=Chilis"
+  },
+  {
+    "Address": "3010 Clairemont Dr Suite A, San Diego",
+    "ID": "221",
+    "Latitude": 32.7944705,
+    "Longitude": -117.1947143,
+    "Name": "Side Piece",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.bemysidepiece.com/"
+  },
+  {
+    "Address": "809 Thomas Ave, San Diego",
+    "ID": "222",
+    "Latitude": 32.7936796,
+    "Longitude": -117.2540394,
+    "Name": "The Local Pacific Beach",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://thelocalpb.com/"
+  },
+  {
+    "Address": "3704 Mission Blvd, San Diego",
+    "ID": "223",
+    "Latitude": 32.7825852,
+    "Longitude": -117.2527267,
+    "Name": "Miss B's Coconut Club",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.missbcoconutclub.com/"
+  },
+  {
+    "Address": "6110 Friars Rd, San Diego",
+    "ID": "224",
+    "Latitude": 32.7665637,
+    "Longitude": -117.1829927,
+    "Name": "Mr. Peabody's Burgers & Ale",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://peabodysburgers.com/"
+  },
+  {
+    "Address": "3010 Clairemont Dr, San Diego",
+    "ID": "225",
+    "Latitude": 32.7945911,
+    "Longitude": -117.1947025,
+    "Name": "Bay Hill Tavern",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.bayhilltavernsd.com/"
+  },
+  {
+    "Address": "2415 Morena Blvd, San Diego",
+    "ID": "226",
+    "Latitude": 32.7875965,
+    "Longitude": -117.2059468,
+    "Name": "The Pub",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.thepubinbaypark.com/"
+  },
+  {
+    "Address": "1717 Morena Blvd, San Diego",
+    "ID": "227",
+    "Latitude": 32.776773,
+    "Longitude": -117.2069851,
+    "Name": "Dizzy's",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.dizzysjazz.com/"
+  },
+  {
+    "Address": "1921 Bacon St, San Diego",
+    "ID": "228",
+    "Latitude": 32.7471269,
+    "Longitude": -117.2507444,
+    "Name": "Winstons Beach Club",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.winstonsob.com/"
+  },
+  {
+    "Address": "3334 Midway Dr, San Diego",
+    "ID": "229",
+    "Latitude": 32.7505318,
+    "Longitude": -117.2114865,
+    "Name": "Pacers San Diego",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.pacerssandiego.com/"
+  },
+  {
+    "Address": "901 Camino del Rio S, San Diego",
+    "ID": "230",
+    "Latitude": 32.7635519,
+    "Longitude": -117.1564924,
+    "Name": "Polanco Kitchen & Bar",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "3940 Fifth Ave, San Diego",
+    "ID": "231",
+    "Latitude": 32.7489865,
+    "Longitude": -117.1607416,
+    "Name": "Snooze, an A.M. Eatery",
+    "Type": "cafe, bar, restaurant, food, store, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.snoozeeatery.com/restaurant/california/hillcrest/?utm_source=Google&utm_medium=BusinessListing"
+  },
+  {
+    "Address": "2736 Adams Ave, San Diego",
+    "ID": "232",
+    "Latitude": 32.7632143,
+    "Longitude": -117.1343092,
+    "Name": "Cafe 21 University Heights",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.cafe-21.com/"
+  },
+  {
+    "Address": "3015 Lincoln Ave, San Diego",
+    "ID": "233",
+    "Latitude": 32.7502126,
+    "Longitude": -117.1297801,
+    "Name": "619 Spirits North Park",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.619spirits.com/"
+  },
+  {
+    "Address": "3980 30th St, San Diego",
+    "ID": "234",
+    "Latitude": 32.7499234,
+    "Longitude": -117.1305422,
+    "Name": "Bivouac Adventure Lodge: Cider Bar, Coffee Shop, & General Store",
+    "Type": "cafe, bar, store, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.bivouaccider.com/adventure-lodge/"
+  },
+  {
+    "Address": "3821 Park Blvd, San Diego",
+    "ID": "235",
+    "Latitude": 32.7478658,
+    "Longitude": -117.1460757,
+    "Name": "Good News Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.goodnewssd.com/"
+  },
+  {
+    "Address": "729 W Washington St, San Diego",
+    "ID": "236",
+    "Latitude": 32.749708,
+    "Longitude": -117.1700874,
+    "Name": "Bar by Red Door",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "2103 El Cajon Blvd, San Diego",
+    "ID": "237",
+    "Latitude": 32.7550308,
+    "Longitude": -117.1423937,
+    "Name": "Live Wire",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.livewirebar.com/"
+  },
+  {
+    "Address": "7007 Friars Rd #305, San Diego",
+    "ID": "238",
+    "Latitude": 32.7678019,
+    "Longitude": -117.1670366,
+    "Name": "Tommy Bahama Marlin Bar & Store",
+    "Type": "bar, clothing_store, store, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.tommybahama.com/restaurants-and-marlin-bars/locations/san-diego"
+  },
+  {
+    "Address": "2933 Adams Ave, San Diego",
+    "ID": "239",
+    "Latitude": 32.7627592,
+    "Longitude": -117.1306836,
+    "Name": "Swan Bar",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "817 W Washington St, San Diego",
+    "ID": "240",
+    "Latitude": 32.7497085,
+    "Longitude": -117.1710061,
+    "Name": "The Lamplighter",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.facebook.com/LamplighterSD/"
+  },
+  {
+    "Address": "1403 University Ave, San Diego",
+    "ID": "241",
+    "Latitude": 32.7482487,
+    "Longitude": -117.1510891,
+    "Name": "Alibi",
+    "Type": "bar, night_club, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.alibibars.com/"
+  },
+  {
+    "Address": "2306 El Cajon Blvd, San Diego",
+    "ID": "242",
+    "Latitude": 32.7555096,
+    "Longitude": -117.1398496,
+    "Name": "Gilly's House of Cocktails",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.gillyscocktails.com/"
+  },
+  {
+    "Address": "3845 Fifth Ave, San Diego",
+    "ID": "243",
+    "Latitude": 32.7477778,
+    "Longitude": -117.1602765,
+    "Name": "Number One Fifth Avenue",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.numberonefifth.com/"
+  },
+  {
+    "Address": "750 Fifth Ave, San Diego",
+    "ID": "244",
+    "Latitude": 32.7132571,
+    "Longitude": -117.1603768,
+    "Name": "Urban India Restaurant & Bar",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://urbanindiasd.com/"
+  },
+  {
+    "Address": "3815 30th St, San Diego",
+    "ID": "245",
+    "Latitude": 32.7477175,
+    "Longitude": -117.1299332,
+    "Name": "True North Tavern",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://truenorthtavern.com/"
+  },
+  {
+    "Address": "1640 Camino Del Este, San Diego",
+    "ID": "246",
+    "Latitude": 32.7695966,
+    "Longitude": -117.1475714,
+    "Name": "356 Korean BBQ & Bar",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.356bbq.com/"
+  },
+  {
+    "Address": "900 Bayfront Ct, San Diego",
+    "ID": "247",
+    "Latitude": 32.7168965,
+    "Longitude": -117.1718957,
+    "Name": "Harbor & Sky Rooftop Bar and Lounge",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.harborandskysandiego.com/"
+  },
+  {
+    "Address": "1202 Camino Del Rio N, San Diego",
+    "ID": "248",
+    "Latitude": 32.7664841,
+    "Longitude": -117.1542527,
+    "Name": "Lazy Dog Restaurant & Bar",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://lazydogrestaurants.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ"
+  },
+  {
+    "Address": "421 W B St, San Diego",
+    "ID": "249",
+    "Latitude": 32.717606,
+    "Longitude": -117.167046,
+    "Name": "Topside Terrace Kitchen & Bar",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.hotelrepublicsd.com/dining/topside-terrace-kitchen-bar"
+  },
+  {
+    "Address": "1236 University Ave, San Diego",
+    "ID": "250",
+    "Latitude": 32.7487177,
+    "Longitude": -117.1525954,
+    "Name": "Uptown Tavern",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://uptowntavernsd.com/"
+  },
+  {
+    "Address": "1839 Adams Ave, San Diego",
+    "ID": "251",
+    "Latitude": 32.7622922,
+    "Longitude": -117.1455909,
+    "Name": "Cheers",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.cheerssandiego.com/"
+  },
+  {
+    "Address": "4696 30th St, San Diego",
+    "ID": "252",
+    "Latitude": 32.7627472,
+    "Longitude": -117.1303853,
+    "Name": "Polite Provisions",
+    "Type": "bar, night_club, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://politeprovisions.com/"
+  },
+  {
+    "Address": "4671 Park Blvd, San Diego",
+    "ID": "253",
+    "Latitude": 32.7623482,
+    "Longitude": -117.1461336,
+    "Name": "The Lancers",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.facebook.com/profile.php?id=100057253189406"
+  },
+  {
+    "Address": "3933 30th St Suite 2, San Diego",
+    "ID": "254",
+    "Latitude": 32.7492135,
+    "Longitude": -117.1299926,
+    "Name": "Caff\u00e8 Calabria",
+    "Type": "cafe, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://caffecalabria.com/"
+  },
+  {
+    "Address": "2105 Mission Ave, San Diego",
+    "ID": "255",
+    "Latitude": 32.7593466,
+    "Longitude": -117.1423555,
+    "Name": "Mystic Mocha",
+    "Type": "cafe, bar, store, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://mysticmocha.org/"
+  },
+  {
+    "Address": "7450 Hazard Center Dr, San Diego",
+    "ID": "256",
+    "Latitude": 32.7698356,
+    "Longitude": -117.1601397,
+    "Name": "Windows Cafe",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://doubletree3.hilton.com/en/hotels/california/doubletree-by-hilton-hotel-san-diego-mission-valley-SDGO-DT/dining/index.html"
+  },
+  {
+    "Address": "1051 University Ave, San Diego",
+    "ID": "257",
+    "Latitude": 32.7482718,
+    "Longitude": -117.154035,
+    "Name": "Rich's",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://richssandiego.com/"
+  },
+  {
+    "Address": "3112 University Ave, San Diego",
+    "ID": "258",
+    "Latitude": 32.7486096,
+    "Longitude": -117.1272909,
+    "Name": "U-31",
+    "Type": "bar, night_club, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.u31bar.com/"
+  },
+  {
+    "Address": "1271 University Ave, San Diego",
+    "ID": "259",
+    "Latitude": 32.7479839,
+    "Longitude": -117.1520113,
+    "Name": "EQ San Diego",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.eqsandiego.com/"
+  },
+  {
+    "Address": "1017 University Ave, San Diego",
+    "ID": "260",
+    "Latitude": 32.7482562,
+    "Longitude": -117.1547681,
+    "Name": "Flicks",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.sdflicks.com/"
+  },
+  {
+    "Address": "801 Fourth Ave, San Diego",
+    "ID": "261",
+    "Latitude": 32.7138011,
+    "Longitude": -117.1608097,
+    "Name": "Mad House Comedy Club",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://madhousecomedyclub.com/"
+  },
+  {
+    "Address": "4673 30th St, San Diego",
+    "ID": "262",
+    "Latitude": 32.7623879,
+    "Longitude": -117.1300674,
+    "Name": "AIR CONDITIONED Lounge",
+    "Type": "bar, night_club, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://airconditionedlounge.com/"
+  },
+  {
+    "Address": "4612 Park Blvd, San Diego",
+    "ID": "263",
+    "Latitude": 32.761383,
+    "Longitude": -117.1466219,
+    "Name": "Park & Rec",
+    "Type": "bar, night_club, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://parkandrecsd.com/"
+  },
+  {
+    "Address": "1807 Fifth Ave, San Diego",
+    "ID": "264",
+    "Latitude": 32.7242793,
+    "Longitude": -117.1600917,
+    "Name": "SRO Lounge",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "756 Fifth Ave, San Diego",
+    "ID": "265",
+    "Latitude": 32.7133317,
+    "Longitude": -117.1604052,
+    "Name": "Myst Lounge",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://mysthookahlounge.com/"
+  },
+  {
+    "Address": "655 Fourth Ave, San Diego",
+    "ID": "266",
+    "Latitude": 32.7121069,
+    "Longitude": -117.1609078,
+    "Name": "The Shout! House",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.theshouthouse.com/"
+  },
+  {
+    "Address": "4095 30th St, San Diego",
+    "ID": "267",
+    "Latitude": 32.752063,
+    "Longitude": -117.1299853,
+    "Name": "Working Class",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.workingclasssd.com/"
+  },
+  {
+    "Address": "5147 Waring Rd, San Diego",
+    "ID": "268",
+    "Latitude": 32.790896,
+    "Longitude": -117.0810955,
+    "Name": "Pal Joey's Cocktail Lounge",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.paljoeys.net/"
+  },
+  {
+    "Address": "4246 University Ave, San Diego",
+    "ID": "269",
+    "Latitude": 32.7497878,
+    "Longitude": -117.1033926,
+    "Name": "Black Cat Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://blackcatbar.wordpress.com/"
+  },
+  {
+    "Address": "4757 University Ave, San Diego",
+    "ID": "270",
+    "Latitude": 32.749397,
+    "Longitude": -117.0918067,
+    "Name": "The Tower Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://thetowerbar.com/"
+  },
+  {
+    "Address": "3391 Adams Ave, San Diego",
+    "ID": "271",
+    "Latitude": 32.7632329,
+    "Longitude": -117.1208944,
+    "Name": "Sycamore Den",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.sycamoreden.com/"
+  },
+  {
+    "Address": "3936 30th St, San Diego",
+    "ID": "272",
+    "Latitude": 32.7492131,
+    "Longitude": -117.1302676,
+    "Name": "The Office Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.theofficebarsd.com/"
+  },
+  {
+    "Address": "3615 El Cajon Blvd, San Diego",
+    "ID": "273",
+    "Latitude": 32.7550877,
+    "Longitude": -117.115422,
+    "Name": "Soda Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://sodabarmusic.com/"
+  },
+  {
+    "Address": "10475 San Diego Mission Rd, San Diego",
+    "ID": "274",
+    "Latitude": 32.7844116,
+    "Longitude": -117.1110242,
+    "Name": "McGregor's Bar and Grill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://mcgregorssandiego.com/"
+  },
+  {
+    "Address": "3373 Adams Ave, San Diego",
+    "ID": "275",
+    "Latitude": 32.7632366,
+    "Longitude": -117.1212601,
+    "Name": "The Ould Sod",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.theouldsod.com/"
+  },
+  {
+    "Address": "4715 Monroe Ave, San Diego",
+    "ID": "276",
+    "Latitude": 32.7587555,
+    "Longitude": -117.0926112,
+    "Name": "Clem\u2019s Station",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://clemsstation.com/"
+  },
+  {
+    "Address": "4079 Adams Ave, San Diego",
+    "ID": "277",
+    "Latitude": 32.7631277,
+    "Longitude": -117.1076768,
+    "Name": "Kensington Club",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.kensingtonclub1935.com/"
+  },
+  {
+    "Address": "3339 El Cajon Blvd, San Diego",
+    "ID": "278",
+    "Latitude": 32.754993,
+    "Longitude": -117.1215057,
+    "Name": "Cricket's Pub",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "3402 Adams Ave, San Diego",
+    "ID": "279",
+    "Latitude": 32.7635134,
+    "Longitude": -117.1205571,
+    "Name": "Rosie O'Grady's",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://rosieogradyssd.com/"
+  },
+  {
+    "Address": "3221 Adams Ave, San Diego",
+    "ID": "280",
+    "Latitude": 32.763189,
+    "Longitude": -117.1244287,
+    "Name": "Triple Crown Pub",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "3377 Adams Ave, San Diego",
+    "ID": "281",
+    "Latitude": 32.7631057,
+    "Longitude": -117.1210771,
+    "Name": "The Rabbit Hole",
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://rabbitholesd.com/"
+  },
+  {
+    "Address": "3416 Adams Ave, San Diego",
+    "ID": "282",
+    "Latitude": 32.7634778,
+    "Longitude": -117.1202588,
+    "Name": "Blind Lady Ale House",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.blindladyalehouse.com/"
+  },
+  {
+    "Address": "10330 Friars Rd #106, San Diego",
+    "ID": "283",
+    "Latitude": 32.7914634,
+    "Longitude": -117.100748,
+    "Name": "Camel's Bar and Grill",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.camelsbarandgrill.com/"
+  },
+  {
+    "Address": "5821 Mission Gorge Rd, San Diego",
+    "ID": "284",
+    "Latitude": 32.7812005,
+    "Longitude": -117.1008874,
+    "Name": "JT's Tavern",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.jtspub.com/"
+  },
+  {
+    "Address": "2850 El Cajon Blvd suite b, San Diego",
+    "ID": "285",
+    "Latitude": 32.7555453,
+    "Longitude": -117.1325181,
+    "Name": "Cafe Madeleine North Park",
+    "Type": "cafe, bar, store, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.cafemadeleinesd.com/"
+  },
+  {
+    "Address": "4746 El Cajon Blvd, San Diego",
+    "ID": "286",
+    "Latitude": 32.7561699,
+    "Longitude": -117.0924306,
+    "Name": "Til-Two Club",
+    "Type": "bar, night_club, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.tiltwoclub.com/"
+  },
+  {
+    "Address": "6608 Mission Gorge Rd, San Diego",
+    "ID": "287",
+    "Latitude": 32.7933487,
+    "Longitude": -117.0985454,
+    "Name": "Blue Agave Night Club",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": null
+  },
+  {
+    "Address": "326 Broadway, San Diego",
+    "ID": "288",
+    "Latitude": 32.716123,
+    "Longitude": -117.1613149,
+    "Name": "Grant Grill",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.grantgrill.com/?scid=feed67b0-9a2f-4de1-8df6-114544116108"
+  },
+  {
+    "Address": "2046 University Ave, San Diego",
+    "ID": "289",
+    "Latitude": 32.7485852,
+    "Longitude": -117.1426664,
+    "Name": "Pecs Bar",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.pecsbar.com/"
+  },
+  {
+    "Address": "344 Seventh Ave, San Diego",
+    "ID": "290",
+    "Latitude": 32.708955,
+    "Longitude": -117.1584272,
+    "Name": "Moonshine Flats",
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.moonshineflats.com/"
+  },
+  {
+    "Address": "660 K St, San Diego",
+    "ID": "291",
+    "Latitude": 32.7084892,
+    "Longitude": -117.1590103,
+    "Name": "Latitude Lounge",
+    "Type": "bar, night_club, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.marriott.com/hotels/hotel-information/restaurant/sangl-san-diego-marriott-gaslamp-quarter/"
+  },
+  {
+    "Address": "901 Fifth Ave, San Diego",
+    "ID": "292",
+    "Latitude": 32.7147898,
+    "Longitude": -117.1600485,
+    "Name": "Vin de Syrah",
+    "Type": "night_club, bar, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.syrahwineparlor.com/"
+  },
+  {
+    "Address": "207 Fifth Ave, San Diego",
+    "ID": "293",
+    "Latitude": 32.707755,
+    "Longitude": -117.1593311,
+    "Name": "FLOAT Rooftop Lounge",
+    "Type": "bar, night_club, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.hardrockhotelsd.com/float-rooftop-bar.php"
+  },
+  {
+    "Address": "750 Sixth Ave, San Diego",
+    "ID": "294",
+    "Latitude": 32.7133365,
+    "Longitude": -117.1594083,
+    "Name": "Pushkin Lounge & Bar",
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.pushkinlounge.com/"
+  },
+  {
+    "Address": "650 Sixth Ave, San Diego",
+    "ID": "295",
+    "Latitude": 32.7120291,
+    "Longitude": -117.1593811,
+    "Name": "Mina Lounge",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.minalounge.com/"
+  },
+  {
+    "Address": "4545 Park Boulevard First Floor, 4545 Park Blvd Human Resources, San Diego",
+    "ID": "296",
+    "Latitude": 32.7599634,
+    "Longitude": -117.1459149,
+    "Name": "The Clark Cabaret & Bar",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "https://www.diversionary.org/cabaret"
+  },
+  {
+    "Address": "4673 30th St Patio G, San Diego",
+    "ID": "297",
+    "Latitude": 32.7623663,
+    "Longitude": -117.1300141,
+    "Name": "The Glampisphere @ The Air Conditioned Lounge",
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://www.glampisphere.space/"
+  },
+  {
+    "Address": "701 Sixth Ave 5th floor, San Diego",
+    "ID": "298",
+    "Latitude": 32.7127229,
+    "Longitude": -117.1594044,
+    "Name": "Cielo Rooftop Lounge",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://tequiladelcielo.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=17693379858281810344"
+  },
+  {
+    "Address": "222 W Washington St, San Diego",
+    "ID": "299",
+    "Latitude": 32.7500669,
+    "Longitude": -117.165543,
+    "Name": "CJ's Lounge",
+    "Type": "bar, point_of_interest, establishment",
+    "Vibe": null,
+    "Website": "http://cjs-club.poi.place/"
+  }
+]
