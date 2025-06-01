@@ -867,7 +867,37 @@
     "Name": "Waterfront Bar & Grill",
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Vibe": null,
-    "Website": "http://waterfrontbarandgrill.com/"
+    "Website": "http://waterfrontbarandgrill.com/",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$1 off draft beer (20 oz)\n10% off food (wings and sliders)\n10% well drinks"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "12:00:00 PM",
+      "End": "3:00:00 PM",
+      "Time Type": "Certain Times of Day",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "No",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "Dive bar with lively local feel and live sports",
+    "Show Promotions": "Yes",
+    "Email": "jblossfeld012@gmail.com"
   },
   {
     "Address": "627 Fourth Ave, San Diego",
