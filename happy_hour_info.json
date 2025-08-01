@@ -4044,5 +4044,1195 @@
     "About": "",
     "Show Promotions": "",
     "Email": ""
+  },
+  {
+    "ID": "263",
+    "Name": "Uptown Tavern",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday, Saturday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $8\nHouse Wine: $8\nWell Drinks: $8\nSignature Mules: $8\nVarious Appetizers: $8-10"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "265",
+    "Name": "619 Spirits North Park",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Cocktails: $6.19\nRotating food & drink specials"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "266",
+    "Name": "Polanco Kitchen & Bar",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "5:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $6\nHouse Wine: $6\nWell Drinks: $6\nRotating food & drink specials"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "267",
+    "Name": "BJ's Restaurant & Brewhouse",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Domestic Bottles: $4\nBeer & Wine: $5\nMargarita: $6\nSelect Apps: $7\n$1 off draft beers\n*Note: establishment also offers a nightly happy hour SUN-THURS from 9 pm until close"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "269",
+    "Name": "The Office Bar",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday",
+      "Start": "5:00:00 PM",
+      "End": "9:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "$3 off signature cocktails\n$2 off draft beer\n$2 off well drinks\n$1 off all other menu items\n*Note: Mon/Tues happy hour starts at 7 pm"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "270",
+    "Name": "Redwing Bar & Grill",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday ",
+      "Start": "11:00:00 AM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Burger & 24 oz beer: $13.50\nRotating food & drinks specials daily"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "272",
+    "Name": "Monkey Bar",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $7\nHouse Wine: $7\nWood-fired Pizza: $13"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "277",
+    "Name": "Gilly's House of Cocktails",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday",
+      "Start": "2:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Beer & Wine: $4-6\nWell Drinks: $6\nShot Specials: $5\nSpecialty Cocktails: $8"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "282",
+    "Name": "Cheers",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Sunday",
+      "Start": "1:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Free burgers & beer on sunday\nRotating daily drink specials"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "284",
+    "Name": "Caffe Calabria",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Various drinks Deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "285",
+    "Name": "U-31",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday",
+      "Start": "5:00:00 PM",
+      "End": "2:00:00 AM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $5\nWell Drinks: $4"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "289",
+    "Name": "AIR CONDITIONED Lounge",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "5:00:00 PM",
+      "End": "8:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $7\nAlchoholic Slushies: $7\nShooters: $7"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "290",
+    "Name": "207 at Hard Rock Hotel San Diego",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $5\nHouse Wine: $7\nWells Drinks: $10\nVarious Appetizers: $12"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "293",
+    "Name": "Working Class",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Discounted drinks\n$1.25 wings Mon 5-10 pm\nBurger, Fries & Beer: $15 (Tues only)"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "294",
+    "Name": "Novo Brazil Brewing Mission Valley",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday",
+      "Start": "12:00:00 PM",
+      "End": "10:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $5"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "295",
+    "Name": "Cellar Hand",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "50% off all wines, beers and other beverages\nDips: $10\nBar Snacks: $7-10"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "298",
+    "Name": "Finca",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday, Sunday",
+      "Start": "5:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Wine Glass: $10\nSpecialty Cocktails: $12\nVarious Appetizers: $7-12\n"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "301",
+    "Name": "The Rabbit Hole",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $6\nHouse Wine: $6\nWell Cocktails: $6\nSpecialty Cocktails: $7\nHalf off select apps\nBrunch Deals Sat/Sun"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "302",
+    "Name": "McGregor's Bar and Grill",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$1 off house wine & well cocktails\nVarious appetizers deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "303",
+    "Name": "JT's Tavern",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Various drinks Deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "304",
+    "Name": "Gossip Grill",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Buy one get one free drinks\n$3 off food menu"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "307",
+    "Name": "Chili's Grill & Bar",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Domestic Draft Beer: $3\nTall Domestic Draft Beer: $4\nHouse Wine: $5\nImported Draft Beer: $4\nMargarita of the Month: $6\nTequila Trifecta: $7"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "309",
+    "Name": "Urban MO's Bar & Grill",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "2:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "311",
+    "Name": "Original 40 Brewing Company",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "$2 off select draft beer, wine glasses"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "312",
+    "Name": "312",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:30:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Tropical Drinks starting at $6.25\n\nWell drinks starting at $4.95\n\nMargaritas starting at $6.25\n\nDraft beer starting at $3.25"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "313",
+    "Name": "Cloak and Petal Little Italy",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "All Draft Beer $1 off\nHot / cold sake: $8\nSpecialty Cocktails: $11\nSapporo: $7\nHouse Wine: $9\nVarious food deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "315",
+    "Name": "Rosie O'Grady's",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "$7 wells cocktails\nRotating daily drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "317",
+    "Name": "Seven Grand San Diego",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday",
+      "Start": "4:00:00 PM",
+      "End": "8:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $6\nSelect Cocktails: $6-8"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "318",
+    "Name": "The Ould Sod",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $5\nSelect Bottled Beer: $5\nWell Cocktails: $5\nSelect Shots: $5"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "320",
+    "Name": "Park & Rec",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Various drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "325",
+    "Name": "Harley Gray Kitchen & Bar",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Bud Light: $4\nWine Glass: $6\nVarious Cocktails: $6-10\nVarious appetizer deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "326",
+    "Name": "Til-Two Club",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "4:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $5\nWell Cocktails: $4\nSelect Shots: $3\nCocktali Pitchers: $35-40\nVarious cocktail deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "329",
+    "Name": "664",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday",
+      "Start": "2:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $5\nMargaritas: $5\nVarious appetizers: $10"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "334",
+    "Name": "Village Vino",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$1 off draft beer\n$2 off wine glasses\n$2 off flatbreads & spreads\n*SUN Only: $10 wine bottles"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "335",
+    "Name": "R Place Bar & Eatery",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $6\nHouse Wine: $6\nWell Cocktails: $6\nSelect Drinks: $7\nSelect Cans: $5\nVarious appetizer deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   }
 ]
