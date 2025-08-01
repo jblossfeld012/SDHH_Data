@@ -8,7 +8,37 @@
     "Type": "cafe, bar, store, restaurant, point_of_interest, food, establishment",
     "Website": "https://www.thehenryrestaurant.com/locations/the-henry-coronado/?utm_source=Google&utm_medium=Organic&utm_campaign=Maps",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "No",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "2",
@@ -19,7 +49,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": "http://mcpspub.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "House Drink & App Specials\nChicken Strips, Ranch: $11.25\nNachos: $10.25 ($13.25 with chicken or beef)\nFish Tacos: $5.50\nChips & Salsa: $3.95 ($8.50 with guacamole)\nIrish Fries with Guinness Gravy: $5.50\nIrish Fries with Guinness Gravy & Cheese: $6.25"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": "info@mcpspub.com"
   },
   {
     "ID": "3",
@@ -30,7 +90,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": null,
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "No",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "4",
@@ -41,7 +131,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": "http://www.coronadotavern.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "No",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "5",
@@ -52,7 +172,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": "https://stakechophousesd.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "4:00:00 PM",
+      "End": "6:30:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Stake Martini: $10\nSelect Cocktails: $8\nPremium Well Drinks: $8\nSelect Beer: $5\nSelect Wines (glass): $7\nVarious bar appetizer deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "Tuesday",
+      "Start": "4:30:00 PM",
+      "End": "9:00:00 PM",
+      "Time Type": "Certain Times of Day",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": "contact@stakechophouse.com"
   },
   {
     "ID": "6",
@@ -63,7 +213,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": "http://www.brigantine.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Various items \nNote: Monday happy hour is 3 pm - close "
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "7",
@@ -74,7 +254,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": "https://www.bluewatergrill.com/location/coronado/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Bottled Beer: $6\nDraft Beer: $6.50\nHouse Cocktails / Margarita / Wine / Bubbly: $8\nHandcrafted Cocktails: $10\nHouse Vodka/Gin Martini: $9\nVarious food deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "8",
@@ -85,7 +295,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": "http://littlefrenchiesd.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$20 off all champagne bottles\nGarden of Eden Spritz: $8\nKronenbourg 1664 Lager: $8\nVeuve Clicquot: $25\nRoederer Estate: $20\nVarious Wines: $8\nVarious food deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "9",
@@ -107,7 +347,37 @@
     "Type": "meal_takeaway, bar, restaurant, point_of_interest, food, establishment",
     "Website": null,
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "2:00:00 PM",
+      "End": "4:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Beers (on tap or bottled): $6\nWine: $8\nCocktails: $8-9\nMarg Pitcher: $38\nSangria Pitcher: $22\nVarious food deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "11",
@@ -118,7 +388,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "https://coronadoshores.org/beach-club-2/",
     "Rating": 4.2,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "Yes",
+      "Event Types": "TBD",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "12",
@@ -129,7 +429,37 @@
     "Type": "restaurant, bar, point_of_interest, food, establishment",
     "Website": "https://www.kimballsd.com/",
     "Rating": 4.2,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+      "Start": "8:00:00 PM",
+      "End": "11:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$2 off appetizers\n$2.50 off premium margs\n$2.50 off house cocktails\nDraft Beer: $5\nWine Glass: $5\nWells Cocktails: $5\nVarious daily deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "13",
@@ -140,7 +470,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": null,
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Beer bottles, drafts, and well liquor: $3\nFish Tacos: $3"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "14",
@@ -151,7 +511,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "http://www.ojoslocos.com/",
     "Rating": 3.8,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "2:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "$5 off buckets\n$2 off pitchers\n$1 off drafts, bottled beer\n1/2 off paleta shots, margaritas, la toxica"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "15",
@@ -162,7 +552,37 @@
     "Type": "restaurant, bar, point_of_interest, food, establishment",
     "Website": "http://voguetavern.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer, Micheladas, Margaritas, Wine Glass: $5\n2 sliders (beef or chicken), sandwich (kielbasa or bratwurst), pretzel bites, chili cheese fries: $5"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "16",
@@ -184,7 +604,37 @@
     "Type": "restaurant, bar, point_of_interest, food, establishment",
     "Website": "https://thegalleyatthemarina.com/",
     "Rating": 4.3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Domestic Draft: $7.50\nHouse Wine: $7.50\nWell Drinks: $8.50\nVarious food deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "18",
@@ -217,7 +667,37 @@
     "Type": "restaurant, bar, point_of_interest, food, establishment",
     "Website": "https://www.bjsrestaurants.com/locations/ca/chula-vista?utm_source=google&utm_medium=organic&utm_campaign=google_my_business",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Domestic Bottles: $4\nBeer & Wine: $5\nMargarita: $6\nSelect Apps: $7\n$1 off draft beers\n*Note: establishment also offers a nightly happy hour SUN-THURS from 9 pm until close"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "21",
@@ -228,7 +708,37 @@
     "Type": "restaurant, bar, point_of_interest, food, establishment",
     "Website": "https://restaurants.applebees.com/en-us/ca/chula-vista/610-palomar-st-77062?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=77062&utm_content=website",
     "Rating": 4.2,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "1/2 price appetizers\nVarious drink deals\n*Note: establishment also offers a happy hour from 9 pm until close"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "22",
@@ -250,7 +760,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": null,
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Various drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "24",
@@ -261,7 +801,37 @@
     "Type": "restaurant, night_club, bar, point_of_interest, food, establishment",
     "Website": "http://www.cafelamaze.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "1:00:00 PM",
+      "End": "4:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Bottled Beer: $5\nHouse Wine: $7\nSangria: $10\nVarious Cocktails: $10\nVarious food deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "25",
@@ -283,7 +853,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": null,
     "Rating": 4.1,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday",
+      "Start": "12:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $6\nVarious Liquor: $6\nSpecialty Shots: $6"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "27",
@@ -316,7 +916,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": null,
     "Rating": 4.1,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday",
+      "Start": "5:00:00 PM",
+      "End": "1:00:00 AM",
+      "Deals": "Drinks",
+      "Menu": "Margarita Glass: $6"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "30",
@@ -415,7 +1045,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": null,
     "Rating": 4.2,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Beer Pints: $2\nBeer Pitchers: $10\nBeer Towers: $16"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "39",
@@ -470,7 +1130,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.chulavistabrewery.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday",
+      "Start": "4:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Various drink deals\n*Note: this establishment offers a Friday happy hour exclusively from 2-3 pm"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "44",
@@ -492,7 +1182,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.labellas.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Beer Pints: $6\nWine Glass: $9\nAppetizers: $8"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "46",
@@ -525,7 +1245,37 @@
     "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.clevelsd.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:30:00 PM",
+      "End": "5:30:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Specialty Cocktails: $11\nBeer Cans: $5-7\nWine Glass: $8\nWell Spirits: $9\nVarious appetizers: $11"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "49",
@@ -536,7 +1286,37 @@
     "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.starlitesd.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": "Call to find out HH deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "50",
@@ -558,7 +1338,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "https://aeroclubbar.com/",
     "Rating": 4.7,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "2:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $5\nWine Glass: $5\nWell Cocktails: $5"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "52",
@@ -569,7 +1379,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.thefishmarket.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Various food and drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "53",
@@ -580,7 +1420,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.harbortownpub.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $5\nWine Glass: $5\nSelect Cocktails: $5\n*Special: spin a wheel for drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "54",
@@ -591,7 +1461,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.goodbarsd.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "12:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $5\nBottles & Seltzers: $5\nWine Glass: $6\nWell Drinks: $7\n*Note: Sat & Sun happy hour begins at 2 pm"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "55",
@@ -613,7 +1513,37 @@
     "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.bayclubhotel.com/bayclubbarandgrill",
     "Rating": 4.3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "2:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $6\nWine Glass: $6\nVarious Cocktails: $6\nAppetizers: $6\nVarious meal deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "57",
@@ -624,7 +1554,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.pointbreakbargrill.com/",
     "Rating": 4.3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:30:00 PM",
+      "End": "6:30:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $5\nWell Drinks: $5"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "58",
@@ -635,7 +1595,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "http://clubmarinabar.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "11:00:00 AM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Domestic Bottles: $4\nWine Glass: $5\nWell Drinks: $5"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "59",
@@ -657,7 +1647,37 @@
     "Type": "restaurant, bar, food, point_of_interest, establishment",
     "Website": "http://zentrlkitchen.com/",
     "Rating": 3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Specialty Cocktails: $12\nVarious Appetizers: $6-10"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "61",
@@ -668,7 +1688,37 @@
     "Type": "liquor_store, bar, restaurant, food, store, point_of_interest, establishment",
     "Website": "http://www.regalbeaglesd.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "$1 off Beers"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "62",
@@ -789,7 +1839,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.thebalboabarandgrill.com/",
     "Rating": 4.7,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Various food and drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "73",
@@ -800,7 +1880,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": null,
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "$1 off Beers\nWell Drinks: $5\nVarious other drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "74",
@@ -811,7 +1921,37 @@
     "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.fooddiscoveryapp.com/san-diego/cafe-sevilla-of-san-diego",
     "Rating": 4.3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "4:30:00 PM",
+      "End": "6:30:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $7\nWine Glass: $7\nSangria: $8\nWell Drinks: $8\nCraft Cocktails: $11\nTapas: $5.50-13\nTacos: $8.50-10.50"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "75",
@@ -822,7 +1962,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "http://barkamon.com/",
     "Rating": 4.8,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday",
+      "Start": "5:30:00 PM",
+      "End": "11:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "All Classic Cocktails: $12\nAmaro shot + Suntory Premium Malt: $15"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "76",
@@ -833,7 +2003,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://waterfrontbarandgrill.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Select Drafts: $5\nWine Glass: $5\nWell Drinks: $5\nComplimentary snacks"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "12:00:00 PM",
+      "End": "3:00:00 PM",
+      "Time Type": "Certain Times of Day",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "No",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "Dive bar with lively local feel and live sports",
+    "Show Promotions": "Yes",
+    "Email": "jblossfeld012@gmail.com"
   },
   {
     "ID": "77",
@@ -844,7 +2044,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.thesmokinggunsd.com/",
     "Rating": 4.2,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $6\nVarious Cocktails: $6-8\nEspresso Martini: $10\nVarious Appetizers: $5-10\n50% off the arcade"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "78",
@@ -855,7 +2085,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://tasteandthirst.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "12:00:00 AM",
+      "Deals": "Food, Drinks",
+      "Menu": "1/2 price drinks\n$3 off beer\n$1 off wings\n$2 off quesadillas\n$4 chicharones\n*AFTER 8 PM*\n$6 Topo Chico, Fireball, Goose Island\n$7 Jameson, Skyy\n$8 Don Julio Blanco, Green Tea Shot\n$9 Long Island, AMF\n$25 Select Pitchers\n$3 Chips & Salsa\n$5 French Fries\n$9 Nachos"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "Saturday, Sunday",
+      "Start": "12:00:00 PM",
+      "End": "3:00:00 PM",
+      "Time Type": "Yes",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "79",
@@ -866,7 +2126,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://bubssandiego.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$1 Off Drafts\nWell Drinks: $5\nSidecars: $5\n1/2 off food baskets"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "80",
@@ -899,7 +2189,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://queenstownpublichouse.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Beer Flight: $10\nWine Glass: $10\nSangria: $10\nAperol Spritz: $10\nDraft Beer: $10\nVarious Small Plates: $8-10"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "83",
@@ -910,7 +2230,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://thefield.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $6\nWine Glass: $6\nWell Drinks: $7\n$2 Off Specialty Cocktails\nVarious food deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "84",
@@ -987,7 +2337,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.hortongrand.com/dine-bar",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "4:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Various deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "91",
@@ -1009,7 +2389,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "https://tempocantina.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
+      "Start": "12:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Various deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "93",
@@ -1020,7 +2430,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://tomswatchbar.com/san-diego/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday",
+      "Start": "11:00:00 AM",
+      "End": "7:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $4\nWine Glass: $4\nWell Drinks: $4\n*Note: happy hour also offered 9 pm until close"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "94",
@@ -1031,7 +2471,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://thelocalsandiego.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "5:30:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$5 off select apps\nWine Glass: $5\nDraft Beer: $6\nDraft Cocktails & Slushies: $10"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "95",
@@ -1075,7 +2545,37 @@
     "Type": "restaurant, night_club, bar, food, point_of_interest, establishment",
     "Website": "http://www.thewhiskeyhousesd.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "4:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Select Beer Bottles: $5\nAdd a shot of whiskey to any beer: +$1\nWine Glass: $7\nSelect Cocktails: $8\nSelect Appetizers: $3-8\nNY Strip: $18\nSalmon Filet: $14\nBurger: $10"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "99",
@@ -1097,7 +2597,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": null,
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "2:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "",
+      "Menu": "Various Drink Deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "101",
@@ -1130,7 +2660,37 @@
     "Type": "bar, night_club, point_of_interest, establishment",
     "Website": "http://thetipsycrow.com/",
     "Rating": 4.3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "104",
@@ -1152,7 +2712,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "https://www.baronelittleitaly.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "106",
@@ -1163,7 +2753,37 @@
     "Type": "restaurant, bar, food, point_of_interest, establishment",
     "Website": "http://www.newyorkwestbar.com/",
     "Rating": 4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM\n9:00:00 PM",
+      "End": "6:00:00 PM\n11:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Speciality cocktails: $12\n$2 off draft beer\n$2 off wine glasses\n$2 off appetizers"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "107",
@@ -1207,7 +2827,37 @@
     "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.lionssharesd.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Well Shots: $8\nSelect Cocktails: $9\nWine Glass: $10\n$2 off all drafts\nVarious food deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "111",
@@ -1229,7 +2879,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://bottlerocketsd.com/",
     "Rating": 4.7,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Well Drinks: $6\nDraft Beer: $6\nWine Glass: $6\nVarious food deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "113",
@@ -1251,7 +2931,37 @@
     "Type": "liquor_store, bar, restaurant, food, store, point_of_interest, establishment",
     "Website": "http://therosewinebar.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "2:00:00 PM",
+      "End": "4:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "House Rose Glass: $8\nAmaro Spritz: $9\nHalf dozen oysters deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "115",
@@ -1273,7 +2983,37 @@
     "Type": "bar, night_club, point_of_interest, establishment",
     "Website": "http://www.whistlestopbar.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "4:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "$1 off draft beer\n$1 off spirits"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "117",
@@ -1295,7 +3035,37 @@
     "Type": "bar, night_club, point_of_interest, establishment",
     "Website": "https://starbarsd.com/",
     "Rating": 4.3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": "Various Drinks Deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "119",
@@ -1350,7 +3120,37 @@
     "Type": "night_club, bar, point_of_interest, establishment",
     "Website": "https://www.thegaslamplighter.com/",
     "Rating": 4.2,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "6:30:00 PM",
+      "End": "9:30:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Specialty cocktails: $13"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "124",
@@ -1361,7 +3161,37 @@
     "Type": "bar, point_of_interest, food, establishment",
     "Website": "http://www.dorothyswine.com/",
     "Rating": 5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Select cocktails: $10\nWine Glass: $8\nSelect Beer: $5"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "125",
@@ -1405,7 +3235,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": "http://kingfishersd.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
+      "Start": "5:00:00 PM",
+      "End": "6:30:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $7\nWine Glass: $12\nHouse cocktails: $14\nSnapper Crudo: $21\nBass Belly: $18"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "129",
@@ -1416,7 +3276,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "https://www.happydoesbar.com/",
     "Rating": 4.2,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Select Beer: $5\nSeltzer: $6\nWine Glass: $6\nChicken or Beer sliders: $3"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "130",
@@ -1427,7 +3317,37 @@
     "Type": "night_club, bar, point_of_interest, establishment",
     "Website": "http://www.minalounge.com/",
     "Rating": 4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "12:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $7\nWine Glass: $7\nWell Shots: $7\nSangria: $7\n20% off wine bottles\n$10 off hookah"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "131",
@@ -1449,7 +3369,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://patricksgaslamppub.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "4:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $5\nWells Drinks: $5\nWine Glass: $5\nSkrewball Whiskey: $5\nEspelon Tequila: $5"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "133",
@@ -1460,7 +3410,37 @@
     "Type": "restaurant, night_club, bar, food, point_of_interest, establishment",
     "Website": "https://thecornerdrafthouse.com/?utm_source=Directories&utm_medium=Business-Listings",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$2 off beer\n$2 off house wine\n$2 off specialty cocktails\n$2 off snacks and sliders"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "134",
@@ -1482,7 +3462,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": "https://www.pendry.com/san-diego/entertainment/nasons-beer-hall/",
     "Rating": 4.3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $5\nWine Glass: $6\nWell Cocktails: $7\nVarious Appetizers: $7-10"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "136",
@@ -1515,7 +3525,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": "https://www.bockbar.com/",
     "Rating": 4.7,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$2 off draft beer\n$2 off BTG wine\n$4 off liter steins\n$10 off Kranz\n$2 Bergs\nRotating food specials"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "139",
@@ -1526,7 +3566,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": "http://gaslamptavern.com/",
     "Rating": 4.3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$2 off draft beer\n$2 off wine glass\n$2 off cocktails\nWell Drinks: $6\n$2 off shareables"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "140",
@@ -1548,7 +3618,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": "https://www.knottybarrel.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$2 off draft beer\n$2 off well liquor\nWine Glass: $7\nSpecialty Shots: $7.50\n$2 off selected apps\nSmashburger: $8"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "142",
@@ -1570,7 +3670,37 @@
     "Type": "night_club, bar, restaurant, point_of_interest, food, establishment",
     "Website": "http://www.whiskeygirl.com/",
     "Rating": 3.7,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $7\nWell Drinks: $7\nWine Glass: $7\nSeltzers: $7\nHalf off select apps"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "144",
@@ -1592,7 +3722,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "https://order.toasttab.com/online/ksdt?y_source=1_MTAyODQ0ODE5OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $5\nSelect appetizer deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "146",
@@ -1603,7 +3763,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": "http://www.jfamous.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $7\nWine Glass: $10\nSpecialty Cocktails: $11\nVarious Appetizers: $10-14"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "147",
@@ -1647,7 +3837,37 @@
     "Type": "meal_delivery, meal_takeaway, bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://pizzaon5th.com/",
     "Rating": 3.9,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "12:00:00 PM",
+      "End": "9:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $3\nWine Glass: $6.50\nShots: $5\nRotating food deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "151",
@@ -1658,7 +3878,37 @@
     "Type": "restaurant, cafe, bakery, bar, food, store, point_of_interest, establishment",
     "Website": "http://havana1920.com/",
     "Rating": 4.3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "2:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Select Beer: $5\nSelect Cocktails: $7.50\nCroquetas: $2\nPapa Rellenas: $3\nEmpanadas: $4\nBocadito Platter: $12"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "152",
@@ -1669,7 +3919,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.fernsidebar.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Select Beer: $6\nSelect Wines: $6\nSelect Cocktails: $8\nVarious Appetizers: $8-10"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "153",
@@ -1834,7 +4114,37 @@
     "Type": "liquor_store, bar, restaurant, food, store, point_of_interest, establishment",
     "Website": "https://www.aletalestaproom.com/",
     "Rating": 4.7,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Select Beer: $5\n$1 off other draft beer\nSeltzers: $5\nVarious Appetizers: $5-10\n"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "168",
@@ -1878,7 +4188,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": "http://www.libertycall.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$3 off craft cocktails\n$2 off draft beer & sangria\n$2 off well drinks\n$8 Javier special\nVarious Appetizers: $8"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "172",
@@ -1933,7 +4273,37 @@
     "Type": "night_club, bar, food, point_of_interest, establishment",
     "Website": "http://www.syrahwineparlor.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Wednesday, Thursday, Friday, Saturday",
+      "Start": "5:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "50% bottles of wine\n50% cocktails\nWine Glass: $8\nPetite charceuterie: $5"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "177",
@@ -1944,7 +4314,37 @@
     "Type": "restaurant, bar, food, point_of_interest, establishment",
     "Website": "http://wetstonewinebar.com/",
     "Rating": 4.8,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday, Saturday",
+      "Start": "5:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Wine Glass: $8.50\nWine Flight: $22\nSelect Cocktails: $8.50\nVarious appetizer deals\n**Happy hour deals on Sunday 4-9 pm"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "178",
@@ -2010,7 +4410,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://coinopgameroom.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "5:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $5\nWell Drinks: $6\nClassic Cocktails: $7\n1/2 off all apps\n$2 cheese slices"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "184",
@@ -2043,7 +4473,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://mysthookahlounge.com/",
     "Rating": 4.3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Rotating food & drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "187",
@@ -2054,7 +4514,37 @@
     "Type": "restaurant, bar, food, point_of_interest, establishment",
     "Website": "https://www.nolitahall.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday",
+      "Start": "5:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "1/2 off beers, wine, and cocktails\nVarious appetizers & pizza: $12-16"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "188",
@@ -2065,7 +4555,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://glassdoorsd.com/",
     "Rating": 3.9,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
+      "Start": "5:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Featured Cocktails: $8-10\nDraft Beer: $8\nWine Glass: $8\nSmall Plates: $8-10\n*Note: Happy hour on Friday-Sunday is 8-10 pm"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "189",
@@ -2098,7 +4618,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://garagekitchenbar.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "51% off all drinks\n$3 off appetizers"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "192",
@@ -2131,7 +4681,37 @@
     "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.zamasandiego.com/",
     "Rating": 4.3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
+      "Start": "5:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $6\nWine Glass: $6\nHouse Sangria: $7\nCraft Cocktails: $9\nVarious appetizers & Sushi Deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "195",
@@ -2153,7 +4733,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://southbeachob.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$1 off draft beer\n$1 off house wine\nVarious Cocktails: $7-8\n1/2 off all appeitzers"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "197",
@@ -2164,7 +4774,37 @@
     "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://paradiseloungesd.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Well Cocktails: $4.75\nRotating food & drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "198",
@@ -2175,7 +4815,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "https://homeandawaysd.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Various food & drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "199",
@@ -2186,7 +4856,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": null,
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Various drinks Deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "200",
@@ -2197,7 +4897,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.shakespearepub.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$1 off draft & bottled beer\nHouse Wine: $5\nWell Liquor: $5.50\nVarious Appetizers: $9\n"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "201",
@@ -2230,7 +4960,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.sandbarsportsgrill.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "14 oz Estrella Jailsco: $6\n22 oz Estrella Jalisco: $9\nMargarita: $8\nStreet tacos: $4\n50% off chips & dip"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "204",
@@ -2241,7 +5001,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.dirtybirdsbarandgrill.com/",
     "Rating": 4.2,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "1/2 off select pitchers\nBuy 1 get 1 half off traditional wings\nDaily specials"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "205",
@@ -2296,7 +5086,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://sidecarbarsd.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$1 off everything\n*Note: happy hour applies all day on Mondays and 12-3 pm Sat/Sun"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "210",
@@ -2307,7 +5127,37 @@
     "Type": "restaurant, liquor_store, bar, store, food, point_of_interest, establishment",
     "Website": "http://www.the3rdcorner.com/",
     "Rating": 4.7,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $6\nWine of the day: $7\nSangria: $8\nMonthly wine flight: $15\n$2 off specialty cocktails\n20% off all appetizers"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "211",
@@ -2329,7 +5179,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.obnoodlehouse.com/ob-noodle-house-bar-1502/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $5\nWell Cocktails: $5\nHot Sake: $5\nJim Bean or Hornitos Repo Shot: $5"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "213",
@@ -2340,7 +5220,37 @@
     "Type": "restaurant, bar, food, point_of_interest, establishment",
     "Website": "https://theholdingcompanyob.com/?utm_source=google-business-profile&utm_medium=organic&utm_campaign=profile-link",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "1/2 off select drafts\nBeer & shot combo: $7\nWell Drinks: $4\nTully/Skrewball Shot: $3\n1/2 off spirits\n$15 off towers\n30% off food menu"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "214",
@@ -2362,7 +5272,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://northsidetavernob.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$1 off draft beer\nWell Drinks: $5\nFireball/Paddy's: $6\nVarious Appetizers: $7-9"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "216",
@@ -2373,7 +5313,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://wonderlandob.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $5\nHouse Wine: $8\nSelect Cocktails: $10\nVarious food specials"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "217",
@@ -2384,7 +5354,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://theharpoceanbeach.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:20:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "1/2 off draft beer"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "218",
@@ -2417,7 +5417,37 @@
     "Type": "restaurant, bar, food, point_of_interest, establishment",
     "Website": "https://www.chilis.com/locations/us/california/san-diego/sports-arena?utm_source=google&utm_medium=local&utm_campaign=Chilis",
     "Rating": 4.1,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Domestic Draft Beer: $3\nTall Domestic Draft Beer: $4\nHouse Wine: $5\nImported Draft Beer: $4\nMargarita of the Month: $6\nTequila Trifecta: $7"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "221",
@@ -2439,7 +5469,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://guava-beach.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$2 off draft beer\nMargaritas / Mules / Aperol Spritz: $8\nHouse Wine: $7\nMexican candy shots: $7\n$3 off all appetizers\n*Note: Happy hour lasts all day Monday, and from 9 pm - close Thursday"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "223",
@@ -2450,7 +5510,37 @@
     "Type": "restaurant, bar, food, point_of_interest, establishment",
     "Website": "http://www.dirtybirdsbarandgrill.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "1/2 off select pitchers\nBuy 1 get 1 half off traditional wings\nDaily specials"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "224",
@@ -2483,7 +5573,37 @@
     "Type": "bar, night_club, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.theholesandiego.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "6:00:00 PM",
+      "End": "8:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Beer: $5\nSelect Cocktails: $5\nVarious Appetizers: $5-7\nPizzas: $15"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "227",
@@ -2505,7 +5625,37 @@
     "Type": "bar, night_club, point_of_interest, establishment",
     "Website": "https://thecordovabar.com/",
     "Rating": 4.8,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday, Saturday",
+      "Start": "5:00:00 PM",
+      "End": "8:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $5\nWine Glass: $5\nWell Drinks: $5\nGin / Vodka Martini: $10"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "229",
@@ -2538,7 +5688,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.thedana.com/firefly-eatery-bar",
     "Rating": 4.2,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $6\nWine Glass: $5\nWell Drinks: $7\nCraft Cocktails: $12"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "232",
@@ -2549,7 +5729,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.rockyburgers.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "11:00:00 AM",
+      "End": "2:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "1/3 lb Cheeseburger, Fries & Soda or Pint of Beer: $19.50"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "233",
@@ -2571,7 +5781,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.thepubinbaypark.com/",
     "Rating": 4.7,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Wednesday, Thursday, Friday",
+      "Start": "3:30:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Half off beer\n50% off pub bites"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "235",
@@ -2604,7 +5844,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.baysidelanding.com/",
     "Rating": 4.3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$2 off draft beer\n$1 off wine\n$2 off cocktails & shots\n$3 off appetizers "
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "238",
@@ -2615,7 +5885,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.obbrewingco.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$3 off draft beer\nVarious Appetizers: $5-13"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "239",
@@ -2637,7 +5937,37 @@
     "Type": "meal_takeaway, bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://oggis.com/point-loma-liberty-station/about-us/",
     "Rating": 4.2,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$1 off beer, wine, and well drinks\n50% off select appetizers"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "241",
@@ -2648,7 +5978,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://aquariusbargrille.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "11:00:00 AM",
+      "End": "4:20:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $5\nWine Glass: $6\nWell Cocktails: $6\nDomestic Pitchers: $14\n$5 off beach buckets of mimosas\nVarious appetizers: $4-7\n*Note: happy hour all day Monday"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "242",
@@ -2714,7 +6074,37 @@
     "Type": "meal_takeaway, bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://kilowatt.beer/",
     "Rating": 4.7,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "12:00:00 PM",
+      "End": "4:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Upgrade any pint to a 32 oz pitcher for +$3"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "248",
@@ -2835,7 +6225,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": null,
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $5\nSelect Cocktails: $5-7\nEspresso Martini: $5\n"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "259",
@@ -2846,7 +6266,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://craft-commerce.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Select Cocktails: $8\nVarious Appetizers: $4-10"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "260",
@@ -2857,7 +6307,37 @@
     "Type": "meal_takeaway, bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.yardhouse.com/locations/ca/san-diego/san-diego-mission-valley-mall/8363?cmpid=br:yh_ag:ie_ch:loc_ca:YHGMB_sn:gmb_gt:san-diego-ca-8363_pl:locurl_rd:1059",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$2 OFF BEER, WINE, SPIRITS & COCKTAILS\n1/2 OFF SELECT APPS & ALL PIZZAS"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "261",
@@ -2879,7 +6359,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://lazydogrestaurants.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Various food & drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "263",
@@ -2890,7 +6400,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://uptowntavernsd.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday, Saturday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $8\nHouse Wine: $8\nWell Drinks: $8\nSignature Mules: $8\nVarious Appetizers: $8-10"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "264",
@@ -2912,7 +6452,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.619spirits.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Cocktails: $6.19\nRotating food & drink specials"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "266",
@@ -2923,7 +6493,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": null,
     "Rating": 3.9,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "5:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $6\nHouse Wine: $6\nWell Drinks: $6\nRotating food & drink specials"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "267",
@@ -2934,7 +6534,37 @@
     "Type": "restaurant, bar, food, point_of_interest, establishment",
     "Website": "https://www.bjsrestaurants.com/locations/ca/mission-valley?utm_source=google&utm_medium=organic&utm_campaign=google_my_business",
     "Rating": 4.2,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Domestic Bottles: $4\nBeer & Wine: $5\nMargarita: $6\nSelect Apps: $7\n$1 off draft beers\n*Note: establishment also offers a nightly happy hour SUN-THURS from 9 pm until close"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "268",
@@ -2956,7 +6586,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "http://www.theofficebarsd.com/",
     "Rating": 4.1,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday",
+      "Start": "5:00:00 PM",
+      "End": "9:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "$3 off signature cocktails\n$2 off draft beer\n$2 off well drinks\n$1 off all other menu items\n*Note: Mon/Tues happy hour starts at 7 pm"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "270",
@@ -2967,7 +6627,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.redwingbar.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday ",
+      "Start": "11:00:00 AM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Burger & 24 oz beer: $13.50\nRotating food & drinks specials daily"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "271",
@@ -2989,7 +6679,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "https://www.towncountry.com/dine/monkey-bar",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $7\nHouse Wine: $7\nWood-fired Pizza: $13"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "273",
@@ -3044,7 +6764,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "https://www.gillyscocktails.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday",
+      "Start": "2:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Beer & Wine: $4-6\nWell Drinks: $6\nShot Specials: $5\nSpecialty Cocktails: $8"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "278",
@@ -3099,7 +6849,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "http://www.cheerssandiego.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Sunday",
+      "Start": "1:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Free burgers & beer on sunday\nRotating daily drink specials"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "283",
@@ -3121,7 +6901,37 @@
     "Type": "cafe, bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://caffecalabria.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Various drinks Deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "285",
@@ -3132,7 +6942,37 @@
     "Type": "bar, night_club, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.u31bar.com/",
     "Rating": 4.1,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday",
+      "Start": "5:00:00 PM",
+      "End": "2:00:00 AM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $5\nWell Drinks: $4"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "286",
@@ -3176,7 +7016,37 @@
     "Type": "bar, night_club, point_of_interest, establishment",
     "Website": "https://airconditionedlounge.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "5:00:00 PM",
+      "End": "8:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $7\nAlchoholic Slushies: $7\nShooters: $7"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "290",
@@ -3187,7 +7057,37 @@
     "Type": "bar, night_club, point_of_interest, establishment",
     "Website": "https://www.hardrockhotels.com/san-diego/207-bar.aspx",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $5\nHouse Wine: $7\nWells Drinks: $10\nVarious Appetizers: $12"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "291",
@@ -3220,7 +7120,37 @@
     "Type": "restaurant, bar, food, point_of_interest, establishment",
     "Website": "http://www.workingclasssd.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Discounted drinks\n$1.25 wings Mon 5-10 pm\nBurger, Fries & Beer: $15 (Tues only)"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "294",
@@ -3231,7 +7161,37 @@
     "Type": "restaurant, bar, food, point_of_interest, establishment",
     "Website": "https://www.novobrew.com/",
     "Rating": 4.1,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday",
+      "Start": "12:00:00 PM",
+      "End": "10:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $5"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "295",
@@ -3242,7 +7202,37 @@
     "Type": "restaurant, bar, food, point_of_interest, establishment",
     "Website": "https://www.cellarhandhillcrest.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "50% off all wines, beers and other beverages\nDips: $10\nBar Snacks: $7-10"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "296",
@@ -3275,7 +7265,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://finca.wine/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday, Sunday",
+      "Start": "5:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Wine Glass: $10\nSpecialty Cocktails: $12\nVarious Appetizers: $7-12\n"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "299",
@@ -3308,7 +7328,37 @@
     "Type": "restaurant, bar, food, point_of_interest, establishment",
     "Website": "http://rabbitholesd.com/",
     "Rating": 4.3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $6\nHouse Wine: $6\nWell Cocktails: $6\nSpecialty Cocktails: $7\nHalf off select apps\nBrunch Deals Sat/Sun"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "302",
@@ -3319,7 +7369,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://mcgregorssandiego.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$1 off house wine & well cocktails\nVarious appetizers deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "303",
@@ -3330,7 +7410,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "http://www.jtspub.com/",
     "Rating": 4.3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Various drinks Deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "304",
@@ -3341,7 +7451,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://gossipgrill.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Buy one get one free drinks\n$3 off food menu"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "305",
@@ -3374,7 +7514,37 @@
     "Type": "restaurant, bar, food, point_of_interest, establishment",
     "Website": "https://www.chilis.com/locations/us/california/san-diego/mission-valley?utm_source=google&utm_medium=local&utm_campaign=Chilis",
     "Rating": 4.2,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Domestic Draft Beer: $3\nTall Domestic Draft Beer: $4\nHouse Wine: $5\nImported Draft Beer: $4\nMargarita of the Month: $6\nTequila Trifecta: $7"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "308",
@@ -3396,7 +7566,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://urbanmos.com/dinein/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "2:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "310",
@@ -3418,7 +7618,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.original40brewing.com/",
     "Rating": 4.7,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "$2 off select draft beer, wine glasses"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "312",
@@ -3429,7 +7659,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.islandsrestaurants.com/locations/mission-valley",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:30:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Tropical Drinks starting at $6.25\n\nWell drinks starting at $4.95\n\nMargaritas starting at $6.25\n\nDraft beer starting at $3.25"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "313",
@@ -3440,7 +7700,37 @@
     "Type": "meal_takeaway, bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://cloakandpetal.com/",
     "Rating": 4.3,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "All Draft Beer $1 off\nHot / cold sake: $8\nSpecialty Cocktails: $11\nSapporo: $7\nHouse Wine: $9\nVarious food deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "314",
@@ -3462,7 +7752,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "http://rosieogradyssd.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "$7 wells cocktails\nRotating daily drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "316",
@@ -3484,7 +7804,37 @@
     "Type": "bar, point_of_interest, establishment",
     "Website": "https://www.sevengrandsd.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday",
+      "Start": "4:00:00 PM",
+      "End": "8:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $6\nSelect Cocktails: $6-8"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "318",
@@ -3495,7 +7845,37 @@
     "Type": "bar, restaurant, point_of_interest, food, establishment",
     "Website": "http://www.theouldsod.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $5\nSelect Bottled Beer: $5\nWell Cocktails: $5\nSelect Shots: $5"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "319",
@@ -3517,7 +7897,37 @@
     "Type": "bar, night_club, point_of_interest, establishment",
     "Website": "http://parkandrecsd.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Various drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "321",
@@ -3572,7 +7982,37 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.harleygraykitchenandbar.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Bud Light: $4\nWine Glass: $6\nVarious Cocktails: $6-10\nVarious appetizer deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "326",
@@ -3583,7 +8023,37 @@
     "Type": "bar, night_club, point_of_interest, establishment",
     "Website": "http://www.tiltwoclub.com/",
     "Rating": 4.4,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "4:00:00 PM",
+      "End": "7:00:00 PM",
+      "Deals": "Drinks",
+      "Menu": "Draft Beer: $5\nWell Cocktails: $4\nSelect Shots: $3\nCocktali Pitchers: $35-40\nVarious cocktail deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "327",
@@ -3616,7 +8086,37 @@
     "Type": "restaurant, night_club, bar, food, point_of_interest, establishment",
     "Website": "https://www.664gaslamp.com/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday",
+      "Start": "2:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $5\nMargaritas: $5\nVarious appetizers: $10"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "330",
@@ -3671,7 +8171,37 @@
     "Type": "liquor_store, bar, store, restaurant, point_of_interest, food, establishment",
     "Website": "http://villagevino.com/",
     "Rating": 4.8,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "$1 off draft beer\n$2 off wine glasses\n$2 off flatbreads & spreads\n*SUN Only: $10 wine bottles"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "335",
@@ -3682,6 +8212,36 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "http://rplacesandiego.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $6\nHouse Wine: $6\nWell Cocktails: $6\nSelect Drinks: $7\nSelect Cans: $5\nVarious appetizer deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   }
 ]
