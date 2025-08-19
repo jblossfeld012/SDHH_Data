@@ -14,6 +14,8 @@
       "Days": "",
       "Start": "",
       "End": "",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "",
       "Menu": ""
     },
@@ -55,6 +57,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "House Drink & App Specials\nChicken Strips, Ranch: $11.25\nNachos: $10.25 ($13.25 with chicken or beef)\nFish Tacos: $5.50\nChips & Salsa: $3.95 ($8.50 with guacamole)\nIrish Fries with Guinness Gravy: $5.50\nIrish Fries with Guinness Gravy & Cheese: $6.25"
     },
@@ -96,6 +100,8 @@
       "Days": "",
       "Start": "",
       "End": "",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "",
       "Menu": ""
     },
@@ -137,6 +143,8 @@
       "Days": "",
       "Start": "",
       "End": "",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "",
       "Menu": ""
     },
@@ -178,6 +186,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "4:00:00 PM",
       "End": "6:30:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Stake Martini: $10\nSelect Cocktails: $8\nPremium Well Drinks: $8\nSelect Beer: $5\nSelect Wines (glass): $7\nVarious bar appetizer deals"
     },
@@ -219,6 +229,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Various items \nNote: Monday happy hour is 3 pm - close "
     },
@@ -260,6 +272,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Bottled Beer: $6\nDraft Beer: $6.50\nHouse Cocktails / Margarita / Wine / Bubbly: $8\nHandcrafted Cocktails: $10\nHouse Vodka/Gin Martini: $9\nVarious food deals"
     },
@@ -301,6 +315,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$20 off all champagne bottles\nGarden of Eden Spritz: $8\nKronenbourg 1664 Lager: $8\nVeuve Clicquot: $25\nRoederer Estate: $20\nVarious Wines: $8\nVarious food deals"
     },
@@ -353,6 +369,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "2:00:00 PM",
       "End": "4:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Beers (on tap or bottled): $6\nWine: $8\nCocktails: $8-9\nMarg Pitcher: $38\nSangria Pitcher: $22\nVarious food deals"
     },
@@ -394,6 +412,8 @@
       "Days": "",
       "Start": "",
       "End": "",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "",
       "Menu": ""
     },
@@ -435,6 +455,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
       "Start": "8:00:00 PM",
       "End": "11:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$2 off appetizers\n$2.50 off premium margs\n$2.50 off house cocktails\nDraft Beer: $5\nWine Glass: $5\nWells Cocktails: $5\nVarious daily deals"
     },
@@ -476,6 +498,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Beer bottles, drafts, and well liquor: $3\nFish Tacos: $3"
     },
@@ -517,6 +541,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "2:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "$5 off buckets\n$2 off pitchers\n$1 off drafts, bottled beer\n1/2 off paleta shots, margaritas, la toxica"
     },
@@ -558,6 +584,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:00:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer, Micheladas, Margaritas, Wine Glass: $5\n2 sliders (beef or chicken), sandwich (kielbasa or bratwurst), pretzel bites, chili cheese fries: $5"
     },
@@ -610,6 +638,8 @@
       "Days": "Monday, Tuesday, Wednesday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Domestic Draft: $7.50\nHouse Wine: $7.50\nWell Drinks: $8.50\nVarious food deals"
     },
@@ -673,6 +703,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday",
       "Start": "3:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "9:00:00 PM",
+      "End 2": "12:00:00 AM",
       "Deals": "Food, Drinks",
       "Menu": "Domestic Bottles: $4\nBeer & Wine: $5\nMargarita: $6\nSelect Apps: $7\n$1 off draft beers\n*Note: establishment also offers a nightly happy hour SUN-THURS from 9 pm until close"
     },
@@ -714,6 +746,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "9:00:00 PM",
+      "End 2": "12:00:00 AM",
       "Deals": "Food, Drinks",
       "Menu": "1/2 price appetizers\nVarious drink deals\n*Note: establishment also offers a happy hour from 9 pm until close"
     },
@@ -766,6 +800,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Various drink deals"
     },
@@ -807,6 +843,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "1:00:00 PM",
       "End": "4:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Bottled Beer: $5\nHouse Wine: $7\nSangria: $10\nVarious Cocktails: $10\nVarious food deals"
     },
@@ -859,6 +897,8 @@
       "Days": "Tuesday, Wednesday, Thursday, Friday",
       "Start": "12:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $6\nVarious Liquor: $6\nSpecialty Shots: $6"
     },
@@ -922,6 +962,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday",
       "Start": "5:00:00 PM",
       "End": "1:00:00 AM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Margarita Glass: $6"
     },
@@ -1051,6 +1093,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Beer Pints: $2\nBeer Pitchers: $10\nBeer Towers: $16"
     },
@@ -1136,6 +1180,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday",
       "Start": "4:00:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "2:00:00 PM",
+      "End 2": "3:00:00 PM",
       "Deals": "Drinks",
       "Menu": "Various drink deals\n*Note: this establishment offers a Friday happy hour exclusively from 2-3 pm"
     },
@@ -1188,6 +1234,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Beer Pints: $6\nWine Glass: $9\nAppetizers: $8"
     },
@@ -1251,6 +1299,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:30:00 PM",
       "End": "5:30:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Specialty Cocktails: $11\nBeer Cans: $5-7\nWine Glass: $8\nWell Spirits: $9\nVarious appetizers: $11"
     },
@@ -1292,6 +1342,8 @@
       "Days": "",
       "Start": "",
       "End": "",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "",
       "Menu": "Call to find out HH deals"
     },
@@ -1344,6 +1396,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "2:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $5\nWine Glass: $5\nWell Cocktails: $5"
     },
@@ -1385,6 +1439,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Various food and drink deals"
     },
@@ -1426,6 +1482,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $5\nWine Glass: $5\nSelect Cocktails: $5\n*Special: spin a wheel for drink deals"
     },
@@ -1464,9 +1522,11 @@
     "Vibe": null,
     "OffersHappyHour": "Yes",
     "HappyHour": {
-      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "12:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "2:00:00 PM",
+      "End 2": "6:00:00 PM",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $5\nBottles & Seltzers: $5\nWine Glass: $6\nWell Drinks: $7\n*Note: Sat & Sun happy hour begins at 2 pm"
     },
@@ -1519,6 +1579,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "2:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $6\nWine Glass: $6\nVarious Cocktails: $6\nAppetizers: $6\nVarious meal deals"
     },
@@ -1560,6 +1622,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:30:00 PM",
       "End": "6:30:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $5\nWell Drinks: $5"
     },
@@ -1601,6 +1665,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "11:00:00 AM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Domestic Bottles: $4\nWine Glass: $5\nWell Drinks: $5"
     },
@@ -1653,6 +1719,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Specialty Cocktails: $12\nVarious Appetizers: $6-10"
     },
@@ -1694,6 +1762,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "$1 off Beers"
     },
@@ -1845,6 +1915,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Various food and drink deals"
     },
@@ -1886,6 +1958,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "$1 off Beers\nWell Drinks: $5\nVarious other drink deals"
     },
@@ -1927,6 +2001,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "4:30:00 PM",
       "End": "6:30:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $7\nWine Glass: $7\nSangria: $8\nWell Drinks: $8\nCraft Cocktails: $11\nTapas: $5.50-13\nTacos: $8.50-10.50"
     },
@@ -1968,6 +2044,8 @@
       "Days": "Monday",
       "Start": "5:30:00 PM",
       "End": "11:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "All Classic Cocktails: $12\nAmaro shot + Suntory Premium Malt: $15"
     },
@@ -2009,6 +2087,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Select Drafts: $5\nWine Glass: $5\nWell Drinks: $5\nComplimentary snacks"
     },
@@ -2050,6 +2130,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $6\nVarious Cocktails: $6-8\nEspresso Martini: $10\nVarious Appetizers: $5-10\n50% off the arcade"
     },
@@ -2091,6 +2173,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "12:00:00 AM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "1/2 price drinks\n$3 off beer\n$1 off wings\n$2 off quesadillas\n$4 chicharones\n*AFTER 8 PM*\n$6 Topo Chico, Fireball, Goose Island\n$7 Jameson, Skyy\n$8 Don Julio Blanco, Green Tea Shot\n$9 Long Island, AMF\n$25 Select Pitchers\n$3 Chips & Salsa\n$5 French Fries\n$9 Nachos"
     },
@@ -2132,6 +2216,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$1 Off Drafts\nWell Drinks: $5\nSidecars: $5\n1/2 off food baskets"
     },
@@ -2195,6 +2281,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Beer Flight: $10\nWine Glass: $10\nSangria: $10\nAperol Spritz: $10\nDraft Beer: $10\nVarious Small Plates: $8-10"
     },
@@ -2236,6 +2324,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $6\nWine Glass: $6\nWell Drinks: $7\n$2 Off Specialty Cocktails\nVarious food deals"
     },
@@ -2343,6 +2433,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "4:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Various deals"
     },
@@ -2395,6 +2487,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
       "Start": "12:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Various deals"
     },
@@ -2436,6 +2530,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday",
       "Start": "11:00:00 AM",
       "End": "7:00:00 PM",
+      "Start 2": "9:00:00 PM",
+      "End 2": "11:00:00 PM",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $4\nWine Glass: $4\nWell Drinks: $4\n*Note: happy hour also offered 9 pm until close"
     },
@@ -2477,6 +2573,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:00:00 PM",
       "End": "5:30:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$5 off select apps\nWine Glass: $5\nDraft Beer: $6\nDraft Cocktails & Slushies: $10"
     },
@@ -2551,6 +2649,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "4:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Select Beer Bottles: $5\nAdd a shot of whiskey to any beer: +$1\nWine Glass: $7\nSelect Cocktails: $8\nSelect Appetizers: $3-8\nNY Strip: $18\nSalmon Filet: $14\nBurger: $10"
     },
@@ -2603,6 +2703,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "2:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "",
       "Menu": "Various Drink Deals"
     },
@@ -2666,6 +2768,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "",
       "End": "",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "",
       "Menu": ""
     },
@@ -2718,6 +2822,8 @@
       "Days": "",
       "Start": "",
       "End": "",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "",
       "Menu": ""
     },
@@ -2759,6 +2865,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:00:00 PM\n9:00:00 PM",
       "End": "6:00:00 PM\n11:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Speciality cocktails: $12\n$2 off draft beer\n$2 off wine glasses\n$2 off appetizers"
     },
@@ -2833,6 +2941,8 @@
       "Days": "Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Well Shots: $8\nSelect Cocktails: $9\nWine Glass: $10\n$2 off all drafts\nVarious food deals"
     },
@@ -2885,6 +2995,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Well Drinks: $6\nDraft Beer: $6\nWine Glass: $6\nVarious food deals"
     },
@@ -2937,6 +3049,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "2:00:00 PM",
       "End": "4:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "House Rose Glass: $8\nAmaro Spritz: $9\nHalf dozen oysters deals"
     },
@@ -2989,6 +3103,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "4:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "$1 off draft beer\n$1 off spirits"
     },
@@ -3041,6 +3157,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "",
       "End": "",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "",
       "Menu": "Various Drinks Deals"
     },
@@ -3126,6 +3244,8 @@
       "Days": "Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "6:30:00 PM",
       "End": "9:30:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Specialty cocktails: $13"
     },
@@ -3167,6 +3287,8 @@
       "Days": "Monday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Select cocktails: $10\nWine Glass: $8\nSelect Beer: $5"
     },
@@ -3241,6 +3363,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
       "Start": "5:00:00 PM",
       "End": "6:30:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $7\nWine Glass: $12\nHouse cocktails: $14\nSnapper Crudo: $21\nBass Belly: $18"
     },
@@ -3282,6 +3406,8 @@
       "Days": "Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Select Beer: $5\nSeltzer: $6\nWine Glass: $6\nChicken or Beer sliders: $3"
     },
@@ -3323,6 +3449,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "12:00:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $7\nWine Glass: $7\nWell Shots: $7\nSangria: $7\n20% off wine bottles\n$10 off hookah"
     },
@@ -3375,6 +3503,8 @@
       "Days": "Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "4:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $5\nWells Drinks: $5\nWine Glass: $5\nSkrewball Whiskey: $5\nEspelon Tequila: $5"
     },
@@ -3416,6 +3546,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$2 off beer\n$2 off house wine\n$2 off specialty cocktails\n$2 off snacks and sliders"
     },
@@ -3468,6 +3600,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $5\nWine Glass: $6\nWell Cocktails: $7\nVarious Appetizers: $7-10"
     },
@@ -3531,6 +3665,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$2 off draft beer\n$2 off BTG wine\n$4 off liter steins\n$10 off Kranz\n$2 Bergs\nRotating food specials"
     },
@@ -3572,6 +3708,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$2 off draft beer\n$2 off wine glass\n$2 off cocktails\nWell Drinks: $6\n$2 off shareables"
     },
@@ -3624,6 +3762,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$2 off draft beer\n$2 off well liquor\nWine Glass: $7\nSpecialty Shots: $7.50\n$2 off selected apps\nSmashburger: $8"
     },
@@ -3676,6 +3816,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $7\nWell Drinks: $7\nWine Glass: $7\nSeltzers: $7\nHalf off select apps"
     },
@@ -3728,6 +3870,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $5\nSelect appetizer deals"
     },
@@ -3769,6 +3913,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $7\nWine Glass: $10\nSpecialty Cocktails: $11\nVarious Appetizers: $10-14"
     },
@@ -3843,6 +3989,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "12:00:00 PM",
       "End": "9:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $3\nWine Glass: $6.50\nShots: $5\nRotating food deals"
     },
@@ -3884,6 +4032,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "2:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Select Beer: $5\nSelect Cocktails: $7.50\nCroquetas: $2\nPapa Rellenas: $3\nEmpanadas: $4\nBocadito Platter: $12"
     },
@@ -3925,6 +4075,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Select Beer: $6\nSelect Wines: $6\nSelect Cocktails: $8\nVarious Appetizers: $8-10"
     },
@@ -4120,6 +4272,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Select Beer: $5\n$1 off other draft beer\nSeltzers: $5\nVarious Appetizers: $5-10\n"
     },
@@ -4194,6 +4348,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$3 off craft cocktails\n$2 off draft beer & sangria\n$2 off well drinks\n$8 Javier special\nVarious Appetizers: $8"
     },
@@ -4279,6 +4435,8 @@
       "Days": "Wednesday, Thursday, Friday, Saturday",
       "Start": "5:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "50% bottles of wine\n50% cocktails\nWine Glass: $8\nPetite charceuterie: $5"
     },
@@ -4320,6 +4478,8 @@
       "Days": "Tuesday, Wednesday, Thursday, Friday, Saturday",
       "Start": "5:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "4:00:00 PM",
+      "End 2": "9:00:00 PM",
       "Deals": "Food, Drinks",
       "Menu": "Wine Glass: $8.50\nWine Flight: $22\nSelect Cocktails: $8.50\nVarious appetizer deals\n**Happy hour deals on Sunday 4-9 pm"
     },
@@ -4416,6 +4576,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "5:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $5\nWell Drinks: $6\nClassic Cocktails: $7\n1/2 off all apps\n$2 cheese slices"
     },
@@ -4479,6 +4641,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Rotating food & drink deals"
     },
@@ -4520,6 +4684,8 @@
       "Days": "Tuesday, Wednesday, Thursday, Friday",
       "Start": "5:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "1/2 off beers, wine, and cocktails\nVarious appetizers & pizza: $12-16"
     },
@@ -4561,6 +4727,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
       "Start": "5:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "8:00:00 PM",
+      "End 2": "10:00:00 PM",
       "Deals": "Food, Drinks",
       "Menu": "Featured Cocktails: $8-10\nDraft Beer: $8\nWine Glass: $8\nSmall Plates: $8-10\n*Note: Happy hour on Friday-Sunday is 8-10 pm"
     },
@@ -4624,6 +4792,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "51% off all drinks\n$3 off appetizers"
     },
@@ -4687,6 +4857,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
       "Start": "5:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $6\nWine Glass: $6\nHouse Sangria: $7\nCraft Cocktails: $9\nVarious appetizers & Sushi Deals"
     },
@@ -4739,6 +4911,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$1 off draft beer\n$1 off house wine\nVarious Cocktails: $7-8\n1/2 off all appeitzers"
     },
@@ -4780,6 +4954,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Well Cocktails: $4.75\nRotating food & drink deals"
     },
@@ -4821,6 +4997,8 @@
       "Days": "Monday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Various food & drink deals"
     },
@@ -4862,6 +5040,8 @@
       "Days": "Monday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Various drinks Deals"
     },
@@ -4903,6 +5083,8 @@
       "Days": "Monday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$1 off draft & bottled beer\nHouse Wine: $5\nWell Liquor: $5.50\nVarious Appetizers: $9\n"
     },
@@ -4966,6 +5148,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "14 oz Estrella Jailsco: $6\n22 oz Estrella Jalisco: $9\nMargarita: $8\nStreet tacos: $4\n50% off chips & dip"
     },
@@ -5007,6 +5191,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "1/2 off select pitchers\nBuy 1 get 1 half off traditional wings\nDaily specials"
     },
@@ -5092,6 +5278,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "3:00:00 PM",
+      "End 2": "2:00:00 AM",
       "Deals": "Food, Drinks",
       "Menu": "$1 off everything\n*Note: happy hour applies all day on Mondays and 12-3 pm Sat/Sun"
     },
@@ -5133,6 +5321,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:00:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $6\nWine of the day: $7\nSangria: $8\nMonthly wine flight: $15\n$2 off specialty cocktails\n20% off all appetizers"
     },
@@ -5185,6 +5375,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $5\nWell Cocktails: $5\nHot Sake: $5\nJim Bean or Hornitos Repo Shot: $5"
     },
@@ -5226,6 +5418,8 @@
       "Days": "Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "1/2 off select drafts\nBeer & shot combo: $7\nWell Drinks: $4\nTully/Skrewball Shot: $3\n1/2 off spirits\n$15 off towers\n30% off food menu"
     },
@@ -5278,6 +5472,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$1 off draft beer\nWell Drinks: $5\nFireball/Paddy's: $6\nVarious Appetizers: $7-9"
     },
@@ -5319,6 +5515,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $5\nHouse Wine: $8\nSelect Cocktails: $10\nVarious food specials"
     },
@@ -5360,6 +5558,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:20:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "1/2 off draft beer"
     },
@@ -5423,6 +5623,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Domestic Draft Beer: $3\nTall Domestic Draft Beer: $4\nHouse Wine: $5\nImported Draft Beer: $4\nMargarita of the Month: $6\nTequila Trifecta: $7"
     },
@@ -5475,6 +5677,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "9:00:00 PM",
+      "End 2": "2:00:00 AM",
       "Deals": "Food, Drinks",
       "Menu": "$2 off draft beer\nMargaritas / Mules / Aperol Spritz: $8\nHouse Wine: $7\nMexican candy shots: $7\n$3 off all appetizers\n*Note: Happy hour lasts all day Monday, and from 9 pm - close Thursday"
     },
@@ -5516,6 +5720,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "1/2 off select pitchers\nBuy 1 get 1 half off traditional wings\nDaily specials"
     },
@@ -5579,6 +5785,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "6:00:00 PM",
       "End": "8:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Beer: $5\nSelect Cocktails: $5\nVarious Appetizers: $5-7\nPizzas: $15"
     },
@@ -5631,6 +5839,8 @@
       "Days": "Tuesday, Wednesday, Thursday, Friday, Saturday",
       "Start": "5:00:00 PM",
       "End": "8:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $5\nWine Glass: $5\nWell Drinks: $5\nGin / Vodka Martini: $10"
     },
@@ -5694,6 +5904,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:00:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $6\nWine Glass: $5\nWell Drinks: $7\nCraft Cocktails: $12"
     },
@@ -5735,6 +5947,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "11:00:00 AM",
       "End": "2:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "1/3 lb Cheeseburger, Fries & Soda or Pint of Beer: $19.50"
     },
@@ -5787,6 +6001,8 @@
       "Days": "Wednesday, Thursday, Friday",
       "Start": "3:30:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Half off beer\n50% off pub bites"
     },
@@ -5850,6 +6066,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$2 off draft beer\n$1 off wine\n$2 off cocktails & shots\n$3 off appetizers "
     },
@@ -5891,6 +6109,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$3 off draft beer\nVarious Appetizers: $5-13"
     },
@@ -5943,6 +6163,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$1 off beer, wine, and well drinks\n50% off select appetizers"
     },
@@ -5984,6 +6206,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "11:00:00 AM",
       "End": "4:20:00 PM",
+      "Start 2": "11:00:00 AM",
+      "End 2": "8:00:00 PM",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $5\nWine Glass: $6\nWell Cocktails: $6\nDomestic Pitchers: $14\n$5 off beach buckets of mimosas\nVarious appetizers: $4-7\n*Note: happy hour all day Monday"
     },
@@ -6080,6 +6304,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "12:00:00 PM",
       "End": "4:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Upgrade any pint to a 32 oz pitcher for +$3"
     },
@@ -6231,6 +6457,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $5\nSelect Cocktails: $5-7\nEspresso Martini: $5\n"
     },
@@ -6272,6 +6500,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Select Cocktails: $8\nVarious Appetizers: $4-10"
     },
@@ -6313,6 +6543,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$2 OFF BEER, WINE, SPIRITS & COCKTAILS\n1/2 OFF SELECT APPS & ALL PIZZAS"
     },
@@ -6365,6 +6597,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Various food & drink deals"
     },
@@ -6406,6 +6640,8 @@
       "Days": "Tuesday, Wednesday, Thursday, Friday, Saturday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $8\nHouse Wine: $8\nWell Drinks: $8\nSignature Mules: $8\nVarious Appetizers: $8-10"
     },
@@ -6458,6 +6694,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Cocktails: $6.19\nRotating food & drink specials"
     },
@@ -6499,6 +6737,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "5:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $6\nHouse Wine: $6\nWell Drinks: $6\nRotating food & drink specials"
     },
@@ -6540,6 +6780,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday",
       "Start": "3:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "9:00:00 PM",
+      "End 2": "12:00:00 AM",
       "Deals": "Food, Drinks",
       "Menu": "Domestic Bottles: $4\nBeer & Wine: $5\nMargarita: $6\nSelect Apps: $7\n$1 off draft beers\n*Note: establishment also offers a nightly happy hour SUN-THURS from 9 pm until close"
     },
@@ -6589,9 +6831,11 @@
     "Vibe": null,
     "OffersHappyHour": "Yes",
     "HappyHour": {
-      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday",
+      "Days": "Wednesday, Thursday, Friday, Sunday",
       "Start": "5:00:00 PM",
       "End": "9:00:00 PM",
+      "Start 2": "7:00:00 PM",
+      "End 2": "9:00:00 PM",
       "Deals": "Drinks",
       "Menu": "$3 off signature cocktails\n$2 off draft beer\n$2 off well drinks\n$1 off all other menu items\n*Note: Mon/Tues happy hour starts at 7 pm"
     },
@@ -6633,6 +6877,8 @@
       "Days": "Tuesday, Wednesday, Thursday, Friday ",
       "Start": "11:00:00 AM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Burger & 24 oz beer: $13.50\nRotating food & drinks specials daily"
     },
@@ -6685,6 +6931,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $7\nHouse Wine: $7\nWood-fired Pizza: $13"
     },
@@ -6770,6 +7018,8 @@
       "Days": "Tuesday, Wednesday, Thursday, Friday",
       "Start": "2:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Beer & Wine: $4-6\nWell Drinks: $6\nShot Specials: $5\nSpecialty Cocktails: $8"
     },
@@ -6855,6 +7105,8 @@
       "Days": "Sunday",
       "Start": "1:00:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Free burgers & beer on sunday\nRotating daily drink specials"
     },
@@ -6907,6 +7159,8 @@
       "Days": "Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Various drinks Deals"
     },
@@ -6948,6 +7202,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday",
       "Start": "5:00:00 PM",
       "End": "2:00:00 AM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $5\nWell Drinks: $4"
     },
@@ -7022,6 +7278,8 @@
       "Days": "Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "5:00:00 PM",
       "End": "8:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $7\nAlchoholic Slushies: $7\nShooters: $7"
     },
@@ -7063,6 +7321,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
       "Start": "3:00:00 PM",
       "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $5\nHouse Wine: $7\nWells Drinks: $10\nVarious Appetizers: $12"
     },
@@ -7126,6 +7386,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Discounted drinks\n$1.25 wings Mon 5-10 pm\nBurger, Fries & Beer: $15 (Tues only)"
     },
@@ -7167,6 +7429,8 @@
       "Days": "Monday",
       "Start": "12:00:00 PM",
       "End": "10:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $5"
     },
@@ -7208,6 +7472,8 @@
       "Days": "Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "50% off all wines, beers and other beverages\nDips: $10\nBar Snacks: $7-10"
     },
@@ -7271,6 +7537,8 @@
       "Days": "Tuesday, Wednesday, Thursday, Friday, Sunday",
       "Start": "5:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Wine Glass: $10\nSpecialty Cocktails: $12\nVarious Appetizers: $7-12\n"
     },
@@ -7334,6 +7602,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $6\nHouse Wine: $6\nWell Cocktails: $6\nSpecialty Cocktails: $7\nHalf off select apps\nBrunch Deals Sat/Sun"
     },
@@ -7375,6 +7645,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$1 off house wine & well cocktails\nVarious appetizers deals"
     },
@@ -7416,6 +7688,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Various drinks Deals"
     },
@@ -7457,6 +7731,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Buy one get one free drinks\n$3 off food menu"
     },
@@ -7520,6 +7796,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Domestic Draft Beer: $3\nTall Domestic Draft Beer: $4\nHouse Wine: $5\nImported Draft Beer: $4\nMargarita of the Month: $6\nTequila Trifecta: $7"
     },
@@ -7572,6 +7850,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "2:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "",
       "Menu": ""
     },
@@ -7624,6 +7904,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "$2 off select draft beer, wine glasses"
     },
@@ -7665,6 +7947,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "6:30:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Tropical Drinks starting at $6.25\n\nWell drinks starting at $4.95\n\nMargaritas starting at $6.25\n\nDraft beer starting at $3.25"
     },
@@ -7706,6 +7990,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "All Draft Beer $1 off\nHot / cold sake: $8\nSpecialty Cocktails: $11\nSapporo: $7\nHouse Wine: $9\nVarious food deals"
     },
@@ -7758,6 +8044,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "$7 wells cocktails\nRotating daily drink deals"
     },
@@ -7810,6 +8098,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday",
       "Start": "4:00:00 PM",
       "End": "8:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $6\nSelect Cocktails: $6-8"
     },
@@ -7851,6 +8141,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $5\nSelect Bottled Beer: $5\nWell Cocktails: $5\nSelect Shots: $5"
     },
@@ -7903,6 +8195,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Various drink deals"
     },
@@ -7988,6 +8282,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Bud Light: $4\nWine Glass: $6\nVarious Cocktails: $6-10\nVarious appetizer deals"
     },
@@ -8029,6 +8325,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "4:00:00 PM",
       "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Drinks",
       "Menu": "Draft Beer: $5\nWell Cocktails: $4\nSelect Shots: $3\nCocktali Pitchers: $35-40\nVarious cocktail deals"
     },
@@ -8092,6 +8390,8 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday",
       "Start": "2:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $5\nMargaritas: $5\nVarious appetizers: $10"
     },
@@ -8177,6 +8477,8 @@
       "Days": "Tuesday, Wednesday, Thursday, Friday",
       "Start": "4:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "4:00:00 PM",
+      "End 2": "6:00:00 PM",
       "Deals": "Food, Drinks",
       "Menu": "$1 off draft beer\n$2 off wine glasses\n$2 off flatbreads & spreads\n*SUN Only: $10 wine bottles"
     },
@@ -8218,8 +8520,1737 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "Start": "3:00:00 PM",
       "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "Draft Beer: $6\nHouse Wine: $6\nWell Cocktails: $6\nSelect Drinks: $7\nSelect Cans: $5\nVarious appetizer deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "336",
+    "Name": "The Mission Bay Beach Club",
+    "Address": "2688 E Mission Bay Dr., San Diego",
+    "Latitude": 32.78969319999999,
+    "Longitude": -117.2099422,
+    "Type": "cafe, bar, store, point_of_interest, food, establishment",
+    "Website": "http://www.missionbaybeachclub.com/",
+    "Rating": 4,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Drinks",
+      "Menu": "Rotating drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "337",
+    "Name": "Bay Hill Tavern",
+    "Address": "3010 Clairemont Dr, San Diego",
+    "Latitude": 32.7945911,
+    "Longitude": -117.1947025,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": "http://www.bayhilltavernsd.com/",
+    "Rating": 4.6,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday",
+      "Start": "3:00:00 PM",
+      "End": "9:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "Southnorte Mexican Lager: $5\n$2 off all tequila\nVarious taco combinations (3): $15"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "338",
+    "Name": "Champ's Lounge",
+    "Address": "3050 Clairemont Dr, San Diego",
+    "Latitude": 32.7957349,
+    "Longitude": -117.1938523,
+    "Type": "bar, point_of_interest, establishment",
+    "Website": null,
+    "Rating": 4.3,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "339",
+    "Name": "Nite Owl Cocktail Lounge",
+    "Address": "2772 Garnet Ave, San Diego",
+    "Latitude": 32.8061874,
+    "Longitude": -117.219695,
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Website": null,
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "2:00:00 PM",
+      "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Drinks",
+      "Menu": "Various drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "340",
+    "Name": "Balboa's Tap House",
+    "Address": "4421 Genesee Ave, San Diego",
+    "Latitude": 32.8241211,
+    "Longitude": -117.1833534,
+    "Type": "bar, restaurant, point_of_interest, food, establishment",
+    "Website": "http://www.balboastaphouse.com/",
+    "Rating": 4.5,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "341",
+    "Name": "Flamingo Deck",
+    "Address": "4110 Mission Blvd, San Diego",
+    "Latitude": 32.7911602,
+    "Longitude": -117.2540737,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": "http://flamingodeck.com/?utm_source=gmb&utm_medium=organic",
+    "Rating": 4,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $5\nHouse Wine: $8\nSpecialty Cocktails: $8\nVarious Pizzas: $15"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "342",
+    "Name": "Lahaina Beach House",
+    "Address": "710 Oliver Ct, San Diego",
+    "Latitude": 32.791759,
+    "Longitude": -117.2551009,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": "https://lahainabeachhouse.shop/",
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "343",
+    "Name": "PB Shore Club",
+    "Address": "4343 Ocean Blvd, San Diego",
+    "Latitude": 32.7942455,
+    "Longitude": -117.2557771,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": "https://www.pbshoreclub.com/",
+    "Rating": 4.2,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday",
+      "Start": "10:00:00 AM",
+      "End": "2:00:00 AM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Drinks",
+      "Menu": "Shorevesa Lager: $5.50 ($7.50 tall boys)\nRotating daily drink deals (Starting at 7 pm)"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "344",
+    "Name": "FIT Social",
+    "Address": "3125 Ocean Front Walk, San Diego",
+    "Latitude": 32.7705386,
+    "Longitude": -117.2526916,
+    "Type": "restaurant, bar, food, point_of_interest, establishment",
+    "Website": "https://www.belmontpark.com/restaurants-san-diego-ca/beach-house",
+    "Rating": 4.3,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "345",
+    "Name": "The Hideout Bar & Grill",
+    "Address": "1014 Grand Ave, San Diego",
+    "Latitude": 32.7959117,
+    "Longitude": -117.2510279,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": null,
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "346",
+    "Name": "Hideaway Pacific Beach",
+    "Address": "4474 Mission Blvd, San Diego",
+    "Latitude": 32.7961935,
+    "Longitude": -117.2555461,
+    "Type": "bar, night_club, restaurant, food, point_of_interest, establishment",
+    "Website": "http://www.hideawaypb.com/",
+    "Rating": 4,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:30:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "Add $1 to double size (or double shot) any drink\nHalf off shots, bottled and can beer\nWine Glass: $6.5-9.5\nVarious appetizer deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "347",
+    "Name": "Baja Beach Cafe",
+    "Address": "701 Thomas Ave, San Diego",
+    "Latitude": 32.7933169,
+    "Longitude": -117.2556342,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": "http://www.bajabeachcafe.com/",
+    "Rating": 4.2,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "7:00:00 PM",
+      "Start 2": "10:30:00 PM",
+      "End 2": "12:00:00 AM",
+      "Deals": "Drinks",
+      "Menu": "2 for 1 on all regular priced drinks\n*Note: late night happy hour from 10:30 - 12:30 Mon - Fri"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "348",
+    "Name": "Open Bar",
+    "Address": "4302 Mission Blvd, San Diego",
+    "Latitude": 32.7937493,
+    "Longitude": -117.2548546,
+    "Type": "bar, point_of_interest, establishment",
+    "Website": null,
+    "Rating": 4.3,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "349",
+    "Name": "Cannonball",
+    "Address": "3105 Ocean Front Walk, San Diego",
+    "Latitude": 32.769985,
+    "Longitude": -117.252635,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": "https://www.belmontpark.com/restaurants-san-diego-ca/cannonball",
+    "Rating": 4.3,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "2:00:00 PM",
+      "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $8\nHouse Wine: $7\nRotating Sake: $9\nLychee Martini: $10\nVarious appetizer and sushi roll deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "350",
+    "Name": "Firehouse American Eatery & Lounge",
+    "Address": "722 Grand Ave, San Diego",
+    "Latitude": 32.7947897,
+    "Longitude": -117.2555753,
+    "Type": "bar, night_club, restaurant, food, point_of_interest, establishment",
+    "Website": "http://www.firehousepb.com/",
+    "Rating": 4.1,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "50% off draft beer, house wine, select cocktails\n50% off apptizer menu"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "351",
+    "Name": "Draft House Belmont Park",
+    "Address": "3125 Ocean Front Walk, San Diego",
+    "Latitude": 32.7706277,
+    "Longitude": -117.2527693,
+    "Type": "bar, point_of_interest, establishment",
+    "Website": "https://www.belmontpark.com/restaurants-san-diego-ca/draft-belmont-park-menus",
+    "Rating": 4,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "352",
+    "Name": "710 Beach Club",
+    "Address": "710 Garnet Ave, San Diego",
+    "Latitude": 32.7965604,
+    "Longitude": -117.2564883,
+    "Type": "night_club, bar, restaurant, food, point_of_interest, establishment",
+    "Website": "https://www.710bc.com/",
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "11:30:00 AM",
+      "End": "8:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "Rotating daily food & drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "353",
+    "Name": "Mavericks Beach Club",
+    "Address": "860 Garnet Ave, San Diego",
+    "Latitude": 32.79694,
+    "Longitude": -117.2545606,
+    "Type": "restaurant, night_club, bar, food, point_of_interest, establishment",
+    "Website": "http://maverickssd.com/",
+    "Rating": 4.1,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "2:00:00 PM",
+      "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Drinks",
+      "Menu": "50% off all drinks"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "354",
+    "Name": "West End PB",
+    "Address": "5157 La Jolla Blvd, San Diego",
+    "Latitude": 32.808003,
+    "Longitude": -117.26131,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": "http://www.westendpb.com/",
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "355",
+    "Name": "The Duck Dive",
+    "Address": "4650 Mission Blvd, San Diego",
+    "Latitude": 32.7985205,
+    "Longitude": -117.2562575,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": "http://www.theduckdive.com/",
+    "Rating": 4.2,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $7\nHouse Wine: $7\nSelect Cocktails: $8\n1/2 off select snacks & appetizers\nRotating daily specials"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "356",
+    "Name": "Dirty Birds Pacific Beach",
+    "Address": "4656 Mission Blvd, San Diego",
+    "Latitude": 32.7987444,
+    "Longitude": -117.2563249,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": "https://www.dirtybirdsbarandgrill.com/",
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "1/2 off select pitchers\nBuy 1 get 1 half off traditional wings\nDaily specials"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "357",
+    "Name": "SD TapRoom",
+    "Address": "1269 Garnet Ave, San Diego",
+    "Latitude": 32.7983033,
+    "Longitude": -117.2466471,
+    "Type": "bar, meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",
+    "Website": "https://sdtaproom.com/?utm_source=listings",
+    "Rating": 4.6,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "$2 off draft beer, house wine, cocktails\n$2 off all appetizers"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "358",
+    "Name": "Bare Back Grill",
+    "Address": "4640 Mission Blvd, San Diego",
+    "Latitude": 32.7982488,
+    "Longitude": -117.2561446,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": "http://www.barebackgrill.com/",
+    "Rating": 4.6,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $7\nCraft Cocktails: $10\nSliders: $7\nVarious Appetizers: $9"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "359",
+    "Name": "Cass Street Bar & Grill",
+    "Address": "4612 Cass St, San Diego",
+    "Latitude": 32.7986097,
+    "Longitude": -117.252376,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": "https://www.cassstbar.com/",
+    "Rating": 4.3,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Drinks",
+      "Menu": "Twisted Tea: $6\nRose Seltzer: $8\nRotating Draft Beer: $5\nRotating daily deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "360",
+    "Name": "The Turquoise Caf\u00e9-Bar Europa",
+    "Address": "873 Turquoise St, San Diego",
+    "Latitude": 32.8088174,
+    "Longitude": -117.2577088,
+    "Type": "bar, restaurant, point_of_interest, food, establishment",
+    "Website": "https://www.cafebareuropa.com/",
+    "Rating": 4.2,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "361",
+    "Name": "PB Avenue",
+    "Address": "1060 Garnet Ave, San Diego",
+    "Latitude": 32.797929,
+    "Longitude": -117.250644,
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Website": "https://www.pbavenue.com/",
+    "Rating": 3.8,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "362",
+    "Name": "Thrusters Lounge",
+    "Address": "4633 Mission Blvd, San Diego",
+    "Latitude": 32.7982176,
+    "Longitude": -117.2558522,
+    "Type": "night_club, bar, point_of_interest, establishment",
+    "Website": "http://www.thrusterslounge.com/",
+    "Rating": 4.1,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "363",
+    "Name": "The Sandbox",
+    "Address": "1466 Garnet Ave, San Diego",
+    "Latitude": 32.7994321,
+    "Longitude": -117.2431943,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": "http://www.sandboxsd.com/",
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "12:00:00 PM",
+      "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "Various food and drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "364",
+    "Name": "The Silver Fox Lounge",
+    "Address": "1833 Garnet Ave, San Diego",
+    "Latitude": 32.8005474,
+    "Longitude": -117.2362871,
+    "Type": "bar, point_of_interest, establishment",
+    "Website": "https://silverfoxloungepb.com/",
+    "Rating": 4.5,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "365",
+    "Name": "San Diego Happy Hour Spots Pacific Beach",
+    "Address": "722 Grand Ave, San Diego",
+    "Latitude": 32.7947417,
+    "Longitude": -117.255555,
+    "Type": "bar, night_club, point_of_interest, establishment",
+    "Website": null,
+    "Rating": 5,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "366",
+    "Name": "Candy's Boom Boom Room",
+    "Address": "4190 Mission Blvd #1, San Diego",
+    "Latitude": 32.7924997,
+    "Longitude": -117.2544154,
+    "Type": "bar, point_of_interest, establishment",
+    "Website": null,
+    "Rating": 4,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "367",
+    "Name": "Moonshine Beach",
+    "Address": "1165 Garnet Ave, San Diego",
+    "Latitude": 32.7979997,
+    "Longitude": -117.2484528,
+    "Type": "bar, point_of_interest, establishment",
+    "Website": "https://moonshinebeachsd.com/",
+    "Rating": 4.1,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Friday, Saturday",
+      "Start": "5:00:00 PM",
+      "End": "9:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Drinks",
+      "Menu": "Buy one get one Buena Cervezas\n50% off all buckets\nWell Drinks: $5\nDomestic Beer Cans: $5"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "368",
+    "Name": "The Collective",
+    "Address": "1261 Garnet Ave, San Diego",
+    "Latitude": 32.7983677,
+    "Longitude": -117.2468131,
+    "Type": "bar, night_club, point_of_interest, establishment",
+    "Website": "http://www.collective-sd.com/",
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday, Saturday",
+      "Start": "6:00:00 PM",
+      "End": "8:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Drinks",
+      "Menu": "$2 off select drinks"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "369",
+    "Name": "Break Point",
+    "Address": "945 Garnet Ave, San Diego",
+    "Latitude": 32.7970883,
+    "Longitude": -117.2526171,
+    "Type": "night_club, bowling_alley, bar, restaurant, food, point_of_interest, establishment",
+    "Website": "http://breakpointpb.com/",
+    "Rating": 3.9,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "$2 off draft beer\n$2 off well drinks\nWine Glass: $5\nHouse Margaritas: $7\nSpecialty Margaritas: $7\n$2 off appetizers\n*TUES-THURS: $35 bowling lanes"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "370",
+    "Name": "The Local Pacific Beach",
+    "Address": "809 Thomas Ave, San Diego",
+    "Latitude": 32.7936545,
+    "Longitude": -117.2539479,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": "http://thelocalpb.com/",
+    "Rating": 4.1,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "High Noon: $5\nSpecialty Cocktails: $8\nVarious Appetizers: $8"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "371",
+    "Name": "Bird Rock Fine Wine",
+    "Address": "5687 La Jolla Blvd, La Jolla",
+    "Latitude": 32.8153358,
+    "Longitude": -117.270269,
+    "Type": "liquor_store, bar, food, point_of_interest, store, establishment",
+    "Website": "http://www.birdrockfinewine.com/",
+    "Rating": 4.9,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "372",
+    "Name": "The Oasis Patio Bar",
+    "Address": "671 Turquoise St, San Diego",
+    "Latitude": 32.8080319,
+    "Longitude": -117.2610036,
+    "Type": "bar, point_of_interest, establishment",
+    "Website": "http://oasisunderthesun.com/",
+    "Rating": 5,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "House Wine: $7\nSangria: $7\nCharcuterie Board: $20\n15% off boutiques"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "373",
+    "Name": "LJ Crafted Wines - Wines & Tastings",
+    "Address": "5621 La Jolla Blvd, San Diego",
+    "Latitude": 32.8143443,
+    "Longitude": -117.2696382,
+    "Type": "liquor_store, bar, food, point_of_interest, store, establishment",
+    "Website": "https://www.ljcraftedwines.com/",
+    "Rating": 4.7,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "374",
+    "Name": "Froggy's by the French Gourmet",
+    "Address": "954 Turquoise St, San Diego",
+    "Latitude": 32.8093341,
+    "Longitude": -117.2565122,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": "http://froggyspb.com/",
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "375",
+    "Name": "Second Nature",
+    "Address": "5026 Cass St, San Diego",
+    "Latitude": 32.8063989,
+    "Longitude": -117.2547916,
+    "Type": "bar, restaurant, food, point_of_interest, establishment",
+    "Website": "http://secondnaturepb.com/",
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "",
+    "HappyHour": {
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Deals": "",
+      "Menu": ""
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "376",
+    "Name": "Captain's Quarters",
+    "Address": "910 Grand Ave Ste 105-107, San Diego",
+    "Latitude": 32.795607,
+    "Longitude": -117.2525086,
+    "Type": "bar, point_of_interest, establishment",
+    "Website": "https://captainsquarterssd.com/",
+    "Rating": 4.3,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Sunday",
+      "Start": "5:00:00 PM",
+      "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Drinks",
+      "Menu": "50% off cocktails\n50% off gin & tonic drafts\n50% off beer & wine"
     },
     "Promotions": {
       "Description": "",
