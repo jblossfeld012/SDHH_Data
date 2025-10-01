@@ -10505,10 +10505,10 @@
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
       "Start": "3:00:00 PM",
       "End": "5:00:00 PM",
-      "Start 2": "",
-      "End 2": "",
+      "Start 2": "8:00:00 PM",
+      "End 2": "11:00:00 PM",
       "Deals": "Food, Drinks",
-      "Menu": "Purchase a Beer, Wine, or Cocktail, get a slice for $3.50"
+      "Menu": "Purchase a Beer, Wine, or Cocktail, get a slice for $3.50\n*Note: 8-11 pm Happy Hour on Thursdays Only"
     },
     "Promotions": {
       "Description": "",
