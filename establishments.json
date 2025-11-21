@@ -10618,5 +10618,48 @@
     "About": "",
     "Show Promotions": "Level 1",
     "Email": ""
+  },
+  {
+    "ID": "385",
+    "Name": "Nick the Greek",
+    "Address": "927 J St, San Diego",
+    "Latitude": 32.709333,
+    "Longitude": -117.156056,
+    "Type": "bar, restaurant, point_of_interest, establishment",
+    "Website": "http://www.nickthegreek.com/?utm_source=cumulus&utm_medium=onlinepresence&utm_campaign=gbp",
+    "Rating": 4.2,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "$1 off Draft Beer\n$2 off Gyro or Bowl"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "Level 1",
+    "Email": ""
   }
 ]
