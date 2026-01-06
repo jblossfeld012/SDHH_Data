@@ -3324,7 +3324,39 @@
     "Type": "night_club, bar, restaurant, point_of_interest, food, establishment",
     "Website": "https://lapuertasd.com/?utm_source=Business-Listings",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "Rotating food/drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "126",
@@ -6580,7 +6612,39 @@
     "Type": "restaurant, night_club, bar, food, point_of_interest, establishment",
     "Website": "https://lapuertasd.com/?utm_source=Business-Listings",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "Rotating food/drink deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "262",
