@@ -10725,5 +10725,48 @@
     "About": "",
     "Show Promotions": "",
     "Email": ""
+  },
+  {
+    "ID": "386",
+    "Name": "The Mixer",
+    "Address": "2750 Dewey Rd #193, San Diego",
+    "Latitude": 32.738249,
+    "Longitude": -117.212290,
+    "Type": "bar, restaurant, point_of_interest, establishment",
+    "Website": "https://themixersandiego.com",
+    "Rating": 5.0,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "$6.25 House Draft Beer\n$6.25 House Wine\n$6.25 Well Drinks\n$7.25 Appetizers"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   }
 ]
