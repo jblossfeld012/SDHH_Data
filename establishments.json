@@ -2361,7 +2361,39 @@
     "Type": "bar, night_club, restaurant, food, point_of_interest, establishment",
     "Website": "http://www.thewerewolf.net/",
     "Rating": 4.6,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "Well Drinks: $5\nSelect Draft Beer: $5\nSelect Premium Beer: $6\nWine Glass: $8\n$Fries: $5\nGarlic Fries, Sweet Fries, Brussel Sprouts: $6\nSliders (2): $7\nElote Dip​, Papas Balls, Buffalo Cauliflower: $8"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "85",
