@@ -2803,7 +2803,7 @@
       "Start 2": "",
       "End 2": "",
       "Deals": "",
-      "Menu": ""
+      "Menu": "Rotating Daily Drinks Deals\nStock Exchange Drink Prices Rise and Fall through the day!"
     },
     "Promotions": {
       "Description": "",
@@ -3187,12 +3187,12 @@
     "OffersHappyHour": "Yes",
     "HappyHour": {
       "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "Start": "",
-      "End": "",
+      "Start": "1:00:00 PM",
+      "End": "6:00:00 PM",
       "Start 2": "",
       "End 2": "",
       "Deals": "",
-      "Menu": "Various Drinks Deals"
+      "Menu": "$4 Bud Light \n$5 Slam Diego IPA\n$6 Pacifico\n$4 Well Drinks\n$5 Wine Glass\n$6Long Drink Hard Seltzer\n$7 House Liquor"
     },
     "Promotions": {
       "Description": "",
@@ -10777,6 +10777,49 @@
       "End 2": "",
       "Deals": "Food, Drinks",
       "Menu": "$6.25 House Draft Beer\n$6.25 House Wine\n$6.25 Well Drinks\n$7.25 Appetizers"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "387",
+    "Name": "The Crack Shack",
+    "Address": "2266 Kettner Blvd, San Diego",
+    "Latitude": 32.727852,
+    "Longitude": -117.171122,
+    "Type": "bar, restaurant, point_of_interest, establishment",
+    "Website": "https://crackshack.com/",
+    "Rating": 4.5,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "$2 Off All Draft Beer\n$8 Specialty Cocktails\n$15 Boozy Shake\n$3 Honey Bear Slider\n$6 Half Don Pastor Fries\n$11 Jidori Chicken Wings"
     },
     "Promotions": {
       "Description": "",
