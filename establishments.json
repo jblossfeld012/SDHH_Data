@@ -6307,7 +6307,30 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://www.missbcoconutclub.com/",
     "Rating": 4.5,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "No",
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "Yes",
+      "Event Types": "",
+      "Mon": "Starting at 10 am: Mojito Monday!\n$8 Mojitos for everyone!\n52% off drinks for local bar/restaurant hospitality",
+      "Tue": "Starting at 10:30 am: Taco Tuesday!\n$8 for two tacos (chicken, pork, or veggies)\n$5 Estrella Jaliscos\n$8 Altos Margaritas",
+      "Wed": "Starting at 10:30 am: Little Havana Wednesdays!\n$17.50 Beer & Cubano",
+      "Thu": "Starting at 10:30am: Burger & Beer Thursdays\n$17.50 Burger & Beer ALL DAY",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "Yes",
+    "Email": ""
   },
   {
     "ID": "243",
