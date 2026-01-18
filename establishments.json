@@ -6309,14 +6309,6 @@
     "Rating": 4.5,
     "Vibe": null,
     "OffersHappyHour": "No",
-    "Promotions": {
-      "Description": "",
-      "Days": "",
-      "Start": "",
-      "End": "",
-      "Time Type": "",
-      "Other Info": ""
-    },
     "Events": {
       "Offers Events": "",
       "Event Types": "",
@@ -6338,7 +6330,7 @@
       "Fri": "",
       "Sat": "",
       "Sun": "",
-      "Other":"",
+      "Other":""
     },
     "Email": ""
   },
