@@ -10868,5 +10868,177 @@
     "About": "",
     "Show Promotions": "",
     "Email": ""
+  },
+  {
+    "ID": "388",
+    "Name": "Mimmo's",
+    "Address": "1743 India St, San Diego",
+    "Latitude": 32.723606,
+    "Longitude": -117.168321,
+    "Type": "bar, restaurant, point_of_interest, establishment",
+    "Website": "https://www.mimmos.biz",
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "Half Price Appetizers\nRotating beer & wine deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "389",
+    "Name": "The Shack Bar & Grill",
+    "Address": "6941 La Jolla Blvd, La Jolla",
+    "Latitude": 32.832734,
+    "Longitude": -117.276809,
+    "Type": "bar, restaurant, point_of_interest, establishment",
+    "Website": "https://www.theshackbarandgrill.co",
+    "Rating": 4.2,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "7:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "$2 off well cocktails\n$2 off draft beer\n$2 off wine & champagne\n$2 off select appetizers (chicken caesar salad, chicken tenders, wings, corn dog, soft pretzel"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "390",
+    "Name": "Nautilus Tavern",
+    "Address": "6830 La Jolla Blvd #103, La Jolla",
+    "Latitude": 32.831332,
+    "Longitude": -117.276575
+    "Type": "bar, restaurant, point_of_interest, establishment",
+    "Website": "https://www.nautilustavern.com",
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "1/2 off beer\n1/2 off wine\nhalf off liquor\n1/2 off appetizers"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "391",
+    "Name": "Latitude 32 Pub House & Grill",
+    "Address": "5019 Cass St, San Diego",
+    "Latitude": 32.806335,
+    "Longitude": -117.254494,
+    "Type": "bar, restaurant, point_of_interest, establishment",
+    "Website": "https://latitude32pubandgrill.com",
+    "Rating": 4.8,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Drinks",
+      "Menu": "$4.50 Domestic Beers\n$6 All Other Beers"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   }
 ]
