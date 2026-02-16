@@ -4471,7 +4471,39 @@
     "Type": "bar, restaurant, food, point_of_interest, establishment",
     "Website": "https://vinariussd.com/",
     "Rating": 4.9,
-    "Vibe": null
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "4:00:00 PM",
+      "End": "5:30:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food, Drinks",
+      "Menu": "Apericena (for two): $40 - includes flatbread margherita, fried calamari, sicilian meatballs, crostini bread, and your choice of either two glasses of house wine or two spritzes"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
   },
   {
     "ID": "175",
@@ -11017,6 +11049,307 @@
       "End 2": "",
       "Deals": "Drinks",
       "Menu": "$4.50 Domestic Beers\n$6 All Other Beers"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "392",
+    "Name": "Born & Raised Steakhouse",
+    "Address": "1909 India St, San Diego",
+    "Latitude": 32.724561,
+    "Longitude": -117.168579,
+    "Type": "bar, restaurant, point_of_interest, establishment",
+    "Website": "http://bornandraisedsteak.com/",
+    "Rating": 4.5,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "4:30:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food,Drinks",
+      "Menu": "$16 charcuterie & cheese board \n $9 dirty tots \n 3 for $9 charcoal-roasted oysters \n$4 chef driven slider \n$5 Philly cheesesteak \n$10 New York skewers \n$10 marinated pork skewers \n$9 soft pretzel \n$29.99 cava and caviar"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "393",
+    "Name": "Born & Raised Steakhouse",
+    "Address": "1909 India St, San Diego",
+    "Latitude": 32.724561,
+    "Longitude": -117.168579,
+    "Type": "bar, restaurant, point_of_interest, establishment",
+    "Website": "http://bornandraisedsteak.com/",
+    "Rating": 4.5,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "4:30:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food,Drinks",
+      "Menu": "$16 charcuterie & cheese board \n $9 dirty tots \n 3 for $9 charcoal-roasted oysters \n$4 chef driven slider \n$5 Philly cheesesteak \n$10 New York skewers \n$10 marinated pork skewers \n$9 soft pretzel \n$29.99 cava and caviar"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "394",
+    "Name": "Ironsides Fish & Oyster",
+    "Address": "1654 India St, San Diego",
+    "Latitude": 32.722716,
+    "Longitude": -117.168383,
+    "Type": "bar, restaurant, point_of_interest, establishment",
+    "Website": "https://ironsidefishandoyster.com/",
+    "Rating": 4.5,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food,Drinks",
+      "Menu": "$9 Aperol Spritz \n$9 Mojito Criollo \n$9 Tom Collins \n$8 house wine \n$7 select craft beer \n$5 oyster backs"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "395",
+    "Name": "Davanti Enoteca",
+    "Address": "1655 India St, San Diego",
+    "Latitude": 32.722716,
+    "Longitude": -117.168383,
+    "Type": "bar, restaurant, point_of_interest, establishment",
+    "Website": "http://www.davantienotecalittleitaly.com/",
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food,Drinks",
+      "Menu": "Draft Beer: $6\nHouse Wine: $7\nWell Cocktails: $7\nDavanti Spritz: $8\nMartini (Vodka or Gin): $9\n$9 Daily Bruschetta \n$7 Roman Artichokes \n$9 Davanti Meatballs \n$0 CACIO E PEPE \n$10 Pizzetta Del Giorno\n$15 Davanti Burger"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "396",
+    "Name": "Davanti Enoteca",
+    "Address": "1655 India St, San Diego",
+    "Latitude": 32.72268,
+    "Longitude": -117.1683,
+    "Type": "bar, restaurant, point_of_interest, establishment",
+    "Website": "http://www.davantienotecalittleitaly.com/",
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food,Drinks",
+      "Menu": "Draft Beer: $6\nHouse Wine: $7\nWell Cocktails: $7\nDavanti Spritz: $8\nMartini (Vodka or Gin): $9\n$9 Daily Bruschetta \n$7 Roman Artichokes \n$9 Davanti Meatballs \n$0 CACIO E PEPE \n$10 Pizzetta Del Giorno\n$15 Davanti Burger"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "397",
+    "Name": "Isola Pizza Bar",
+    "Address": "1526 India St, San Diego",
+    "Latitude": 32.72121,
+    "Longitude": -117.16837,
+    "Type": "bar, restaurant, point_of_interest, establishment",
+    "Website": "https://www.isolapizzabar.com/",
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food,Drinks",
+      "Menu": "Rotating Food & Drink Deals"
+    },
+    "Promotions": {
+      "Description": "",
+      "Days": "",
+      "Start": "",
+      "End": "",
+      "Time Type": "",
+      "Other Info": ""
+    },
+    "Events": {
+      "Offers Events": "",
+      "Event Types": "",
+      "Mon": "",
+      "Tue": "",
+      "Wed": "",
+      "Thu": "",
+      "Fri": "",
+      "Sat": "",
+      "Sun": ""
+    },
+    "About": "",
+    "Show Promotions": "",
+    "Email": ""
+  },
+  {
+    "ID": "398",
+    "Name": "Piedra Santa Argentinian Steakhouse",
+    "Address": "555 W Ash St, San Diego",
+    "Latitude": 32.719748,
+    "Longitude": -117.168182,
+    "Type": "bar, restaurant, point_of_interest, establishment",
+    "Website": "https://piedrasantasd.com/",
+    "Rating": 4.4,
+    "Vibe": null,
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+      "Start": "3:00:00 PM",
+      "End": "6:00:00 PM",
+      "Start 2": "",
+      "End 2": "",
+      "Deals": "Food,Drinks",
+      "Menu": "Draft and Bottled Beer: $6\nHouse Wine: $8\nSpecialty Cocktails: $11\nOysters: $1.50 each\n4 Oysters Rockefeller: $10\nEmpanada Trio: $15\nArtisan Rustic Bread: $6\nVarious Meat and Fish Plates: $18-24"
     },
     "Promotions": {
       "Description": "",
