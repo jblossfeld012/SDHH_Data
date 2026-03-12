@@ -6340,7 +6340,14 @@
     "Website": "https://www.missbcoconutclub.com/",
     "Rating": 4.5,
     "Vibe": null,
-    "OffersHappyHour": "No",
+    "OffersHappyHour": "Yes",
+    "HappyHour": {
+      "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "Start": "3:00:00 PM",
+      "End": "5:00:00 PM",
+      "Deals": "Food, Drinks",
+      "Menu": "Draft Beer: $6\nWell Cocktails: $6\nCubano Sandwich: $8\nLechon Asado Fries: $8\nChips and Salsa: $8"
+    },
     "Events": {
       "Offers Events": "",
       "Event Types": "",
